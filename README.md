@@ -5,6 +5,7 @@ OUR DASHBOARD->
 
 <img width="1041" height="812" alt="Screenshot 2026-10-15 180738" src="https://github.com/user-attachments/assets/cac1a7a5-9eb1-4bcd-9bf0-328257800f81" />
 
+
 Problem Solved: Inefficient Resource Allocation and Strategic Blind Spots in Sustainability Efforts.
 ✅ Identifying Emissions Source: Pinpoints Scope 3 value chain emissions (40%) as the primary issue. Directs focus to supplier engagement and targeted mitigation strategies.
 
