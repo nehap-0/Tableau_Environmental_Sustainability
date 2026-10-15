@@ -1,0 +1,181 @@
+Date,Year,Month,Project_Type,Investment_USD,CO2_Offset_Tonnes,Cost_per_Tonne_CO2_USD,Project_Count,Geographic_Region,Certification_Standard,Project_Status
+2022-01-01,2022,1,Reforestation,95298.0,3403.48,32.0,3,Latin America,VCS,Active
+2022-01-01,2022,1,Renewable Energy,97093.0,2157.62,37.0,1,Asia Pacific,CAR,Active
+2022-01-01,2022,1,Methane Capture,83676.0,2390.76,36.0,3,Europe,VCS,Active
+2022-01-01,2022,1,Soil Carbon,81324.0,2541.37,28.0,4,North America,VCS,Active
+2022-01-01,2022,1,Direct Air Capture,218224.0,1212.35,185.0,4,Asia Pacific,CAR,Active
+2022-02-01,2022,2,Reforestation,107924.0,3854.42,27.0,4,North America,Gold Standard,Completed
+2022-02-01,2022,2,Renewable Energy,93221.0,2071.57,39.0,4,Asia Pacific,VCS,Active
+2022-02-01,2022,2,Methane Capture,73381.0,2096.6,31.0,1,Europe,Gold Standard,Completed
+2022-02-01,2022,2,Soil Carbon,63600.0,1987.5,34.0,3,Middle East & Africa,Gold Standard,Active
+2022-02-01,2022,2,Direct Air Capture,179910.0,999.5,174.0,4,Europe,Gold Standard,Active
+2022-03-01,2022,3,Reforestation,83715.0,2989.81,28.0,2,Middle East & Africa,Gold Standard,Active
+2022-03-01,2022,3,Renewable Energy,112731.0,2505.13,47.0,1,Europe,VCS,Active
+2022-03-01,2022,3,Methane Capture,119389.0,3411.12,32.0,1,Asia Pacific,Gold Standard,Active
+2022-03-01,2022,3,Soil Carbon,69493.0,2171.66,29.0,4,Europe,VCS,Active
+2022-03-01,2022,3,Direct Air Capture,175862.0,977.01,193.0,3,Europe,VCS,Completed
+2022-04-01,2022,4,Reforestation,90868.0,3245.3,29.0,4,Asia Pacific,VCS,Active
+2022-04-01,2022,4,Renewable Energy,129647.0,2881.05,31.0,2,Europe,VCS,In Development
+2022-04-01,2022,4,Methane Capture,86655.0,2475.86,43.0,1,Asia Pacific,VCS,Active
+2022-04-01,2022,4,Soil Carbon,52635.0,1644.86,34.0,4,Middle East & Africa,CDM,Active
+2022-04-01,2022,4,Direct Air Capture,193996.0,1077.75,191.0,4,North America,Gold Standard,Completed
+2022-05-01,2022,5,Reforestation,92168.0,3291.73,28.0,2,Middle East & Africa,Gold Standard,Active
+2022-05-01,2022,5,Renewable Energy,146498.0,3255.51,51.0,3,North America,Gold Standard,Active
+2022-05-01,2022,5,Methane Capture,123553.0,3530.08,29.0,3,Asia Pacific,VCS,Completed
+2022-05-01,2022,5,Soil Carbon,62068.0,1939.62,32.0,2,North America,Gold Standard,Active
+2022-05-01,2022,5,Direct Air Capture,135371.0,752.06,171.0,4,Middle East & Africa,Gold Standard,Active
+2022-06-01,2022,6,Reforestation,80750.0,2883.91,24.0,4,Europe,Gold Standard,Completed
+2022-06-01,2022,6,Renewable Energy,139549.0,3101.08,50.0,2,Latin America,CAR,Completed
+2022-06-01,2022,6,Methane Capture,80513.0,2300.38,35.0,3,Latin America,VCS,Active
+2022-06-01,2022,6,Soil Carbon,79141.0,2473.14,35.0,3,Asia Pacific,VCS,Active
+2022-06-01,2022,6,Direct Air Capture,301439.0,1674.66,181.0,3,Asia Pacific,CAR,Active
+2022-07-01,2022,7,Reforestation,93445.0,3337.32,23.0,4,Latin America,VCS,Active
+2022-07-01,2022,7,Renewable Energy,116602.0,2591.17,49.0,4,Asia Pacific,CDM,Completed
+2022-07-01,2022,7,Methane Capture,137592.0,3931.2,31.0,4,Europe,CAR,Completed
+2022-07-01,2022,7,Soil Carbon,72885.0,2277.66,40.0,1,Europe,VCS,Completed
+2022-07-01,2022,7,Direct Air Capture,232184.0,1289.91,205.0,4,Europe,CAR,In Development
+2022-08-01,2022,8,Reforestation,82289.0,2938.9,29.0,1,Europe,Gold Standard,Completed
+2022-08-01,2022,8,Renewable Energy,133611.0,2969.14,43.0,4,Europe,Gold Standard,Active
+2022-08-01,2022,8,Methane Capture,115489.0,3299.69,42.0,1,Middle East & Africa,VCS,Active
+2022-08-01,2022,8,Soil Carbon,79779.0,2493.09,27.0,3,Middle East & Africa,CAR,Active
+2022-08-01,2022,8,Direct Air Capture,371471.0,2063.73,163.0,4,Europe,CDM,Completed
+2022-09-01,2022,9,Reforestation,76720.0,2739.99,31.0,3,Asia Pacific,CAR,In Development
+2022-09-01,2022,9,Renewable Energy,103914.0,2309.21,46.0,2,North America,Gold Standard,Active
+2022-09-01,2022,9,Methane Capture,124873.0,3567.8,36.0,2,Middle East & Africa,Gold Standard,Active
+2022-09-01,2022,9,Soil Carbon,91026.0,2844.58,30.0,3,Latin America,Gold Standard,Active
+2022-09-01,2022,9,Direct Air Capture,263274.0,1462.63,176.0,4,North America,VCS,Active
+2022-10-01,2022,10,Reforestation,82980.0,2963.59,28.0,1,Middle East & Africa,Gold Standard,Completed
+2022-10-01,2022,10,Renewable Energy,135060.0,3001.33,49.0,3,Middle East & Africa,Gold Standard,Active
+2022-10-01,2022,10,Methane Capture,131845.0,3766.99,34.0,1,North America,CAR,Active
+2022-10-01,2022,10,Soil Carbon,71270.0,2227.18,34.0,2,Latin America,Gold Standard,Active
+2022-10-01,2022,10,Direct Air Capture,391098.0,2172.76,184.0,4,Latin America,CDM,Completed
+2022-11-01,2022,11,Reforestation,75425.0,2693.77,31.0,2,North America,Gold Standard,In Development
+2022-11-01,2022,11,Renewable Energy,72924.0,1620.54,48.0,3,Asia Pacific,VCS,Active
+2022-11-01,2022,11,Methane Capture,108212.0,3091.77,33.0,3,Europe,VCS,Completed
+2022-11-01,2022,11,Soil Carbon,82971.0,2592.85,34.0,2,Middle East & Africa,Gold Standard,Completed
+2022-11-01,2022,11,Direct Air Capture,269843.0,1499.13,152.0,4,Europe,Gold Standard,Active
+2022-12-01,2022,12,Reforestation,64464.0,2302.29,27.0,4,Latin America,CAR,Completed
+2022-12-01,2022,12,Renewable Energy,117231.0,2605.14,41.0,2,North America,CDM,Active
+2022-12-01,2022,12,Methane Capture,125920.0,3597.72,31.0,2,Europe,CAR,Active
+2022-12-01,2022,12,Soil Carbon,59115.0,1847.34,29.0,2,Latin America,Gold Standard,Active
+2022-12-01,2022,12,Direct Air Capture,375381.0,2085.45,192.0,1,Europe,VCS,Completed
+2023-01-01,2023,1,Reforestation,63627.0,2272.38,24.0,2,North America,CAR,Active
+2023-01-01,2023,1,Renewable Energy,204472.0,4543.83,49.0,4,Latin America,CAR,Completed
+2023-01-01,2023,1,Methane Capture,121290.0,3465.43,33.0,2,Europe,Gold Standard,Active
+2023-01-01,2023,1,Soil Carbon,87340.0,2729.38,32.0,1,Asia Pacific,Gold Standard,In Development
+2023-01-01,2023,1,Direct Air Capture,397452.0,2208.07,163.0,4,Middle East & Africa,CAR,Active
+2023-02-01,2023,2,Reforestation,153775.0,5491.96,28.0,1,Asia Pacific,VCS,Active
+2023-02-01,2023,2,Renewable Energy,202579.0,4501.75,47.0,1,Europe,CDM,Active
+2023-02-01,2023,2,Methane Capture,121270.0,3464.87,40.0,1,Europe,VCS,Completed
+2023-02-01,2023,2,Soil Carbon,100823.0,3150.72,34.0,4,Europe,Gold Standard,In Development
+2023-02-01,2023,2,Direct Air Capture,249668.0,1387.05,157.0,2,Europe,VCS,Active
+2023-03-01,2023,3,Reforestation,98225.0,3508.02,31.0,4,Latin America,Gold Standard,Completed
+2023-03-01,2023,3,Renewable Energy,107892.0,2397.61,49.0,1,Middle East & Africa,VCS,Active
+2023-03-01,2023,3,Methane Capture,147735.0,4221.0,32.0,3,Latin America,CAR,Completed
+2023-03-01,2023,3,Soil Carbon,60915.0,1903.58,28.0,4,Latin America,CAR,Active
+2023-03-01,2023,3,Direct Air Capture,324050.0,1800.28,163.0,3,Asia Pacific,Gold Standard,Active
+2023-04-01,2023,4,Reforestation,99819.0,3564.95,25.0,3,Asia Pacific,Gold Standard,Completed
+2023-04-01,2023,4,Renewable Energy,200040.0,4445.33,50.0,4,Middle East & Africa,Gold Standard,Active
+2023-04-01,2023,4,Methane Capture,122685.0,3505.29,27.0,4,North America,VCS,Active
+2023-04-01,2023,4,Soil Carbon,122325.0,3822.66,32.0,4,Latin America,VCS,Active
+2023-04-01,2023,4,Direct Air Capture,422323.0,2346.24,192.0,2,Europe,VCS,In Development
+2023-05-01,2023,5,Reforestation,125120.0,4468.57,33.0,3,Middle East & Africa,Gold Standard,Active
+2023-05-01,2023,5,Renewable Energy,178213.0,3960.29,44.0,4,Asia Pacific,VCS,Completed
+2023-05-01,2023,5,Methane Capture,73535.0,2101.0,37.0,4,Latin America,VCS,In Development
+2023-05-01,2023,5,Soil Carbon,104415.0,3262.98,32.0,2,Asia Pacific,Gold Standard,Active
+2023-05-01,2023,5,Direct Air Capture,333264.0,1851.47,154.0,3,Europe,VCS,Active
+2023-06-01,2023,6,Reforestation,87975.0,3141.95,25.0,3,Asia Pacific,VCS,Active
+2023-06-01,2023,6,Renewable Energy,179998.0,3999.96,53.0,4,North America,Gold Standard,In Development
+2023-06-01,2023,6,Methane Capture,107297.0,3065.64,41.0,2,Europe,VCS,Active
+2023-06-01,2023,6,Soil Carbon,73472.0,2296.0,31.0,2,Latin America,VCS,In Development
+2023-06-01,2023,6,Direct Air Capture,358888.0,1993.82,182.0,3,Asia Pacific,VCS,Active
+2023-07-01,2023,7,Reforestation,76969.0,2748.89,26.0,1,North America,CAR,Completed
+2023-07-01,2023,7,Renewable Energy,170923.0,3798.29,50.0,2,North America,VCS,Completed
+2023-07-01,2023,7,Methane Capture,189482.0,5413.76,34.0,1,Middle East & Africa,VCS,Completed
+2023-07-01,2023,7,Soil Carbon,60836.0,1901.13,32.0,2,Latin America,VCS,Active
+2023-07-01,2023,7,Direct Air Capture,418689.0,2326.05,190.0,4,Middle East & Africa,VCS,Completed
+2023-08-01,2023,8,Reforestation,133582.0,4770.8,29.0,3,Europe,Gold Standard,Completed
+2023-08-01,2023,8,Renewable Energy,174001.0,3866.68,43.0,3,Middle East & Africa,VCS,Active
+2023-08-01,2023,8,Methane Capture,97525.0,2786.42,35.0,1,Middle East & Africa,Gold Standard,Completed
+2023-08-01,2023,8,Soil Carbon,100559.0,3142.46,34.0,4,Latin America,Gold Standard,Completed
+2023-08-01,2023,8,Direct Air Capture,187468.0,1041.49,153.0,2,Europe,VCS,Completed
+2023-09-01,2023,9,Reforestation,135207.0,4828.83,32.0,2,Latin America,Gold Standard,Active
+2023-09-01,2023,9,Renewable Energy,103617.0,2302.59,41.0,1,Latin America,CDM,Completed
+2023-09-01,2023,9,Methane Capture,165644.0,4732.69,34.0,1,Middle East & Africa,VCS,In Development
+2023-09-01,2023,9,Soil Carbon,143507.0,4484.61,29.0,3,Latin America,VCS,In Development
+2023-09-01,2023,9,Direct Air Capture,207530.0,1152.94,191.0,4,Asia Pacific,VCS,In Development
+2023-10-01,2023,10,Reforestation,120743.0,4312.26,29.0,1,Europe,VCS,Active
+2023-10-01,2023,10,Renewable Energy,96544.0,2145.41,43.0,1,North America,Gold Standard,Active
+2023-10-01,2023,10,Methane Capture,93042.0,2658.35,40.0,4,Europe,CAR,Active
+2023-10-01,2023,10,Soil Carbon,93376.0,2917.98,38.0,3,Asia Pacific,Gold Standard,Completed
+2023-10-01,2023,10,Direct Air Capture,356766.0,1982.03,194.0,2,Middle East & Africa,Gold Standard,Active
+2023-11-01,2023,11,Reforestation,110560.0,3948.57,26.0,4,Latin America,VCS,Active
+2023-11-01,2023,11,Renewable Energy,172914.0,3842.54,49.0,3,Asia Pacific,VCS,Active
+2023-11-01,2023,11,Methane Capture,109782.0,3136.62,36.0,4,Latin America,VCS,Active
+2023-11-01,2023,11,Soil Carbon,134858.0,4214.33,31.0,4,Asia Pacific,VCS,Active
+2023-11-01,2023,11,Direct Air Capture,354647.0,1970.26,199.0,2,Asia Pacific,VCS,Completed
+2023-12-01,2023,12,Reforestation,166261.0,5937.88,30.0,1,North America,CAR,Completed
+2023-12-01,2023,12,Renewable Energy,193232.0,4294.04,44.0,1,North America,Gold Standard,Completed
+2023-12-01,2023,12,Methane Capture,181604.0,5188.69,35.0,2,Europe,Gold Standard,Completed
+2023-12-01,2023,12,Soil Carbon,100540.0,3141.87,34.0,1,North America,VCS,Completed
+2023-12-01,2023,12,Direct Air Capture,519405.0,2885.58,183.0,3,North America,VCS,Completed
+2024-01-01,2024,1,Reforestation,105894.0,3781.94,25.0,2,Middle East & Africa,Gold Standard,Active
+2024-01-01,2024,1,Renewable Energy,203632.0,4525.15,45.0,2,North America,CDM,Active
+2024-01-01,2024,1,Methane Capture,173551.0,4958.6,33.0,1,Latin America,CDM,Active
+2024-01-01,2024,1,Soil Carbon,90045.0,2813.89,28.0,2,Europe,CAR,Active
+2024-01-01,2024,1,Direct Air Capture,355875.0,1977.08,172.0,3,Europe,Gold Standard,In Development
+2024-02-01,2024,2,Reforestation,112810.0,4028.94,32.0,1,Europe,Gold Standard,Active
+2024-02-01,2024,2,Renewable Energy,246330.0,5474.0,47.0,3,Middle East & Africa,CDM,Active
+2024-02-01,2024,2,Methane Capture,129205.0,3691.57,39.0,1,North America,VCS,Active
+2024-02-01,2024,2,Soil Carbon,97870.0,3058.42,37.0,4,Asia Pacific,VCS,In Development
+2024-02-01,2024,2,Direct Air Capture,475889.0,2643.83,162.0,4,Latin America,Gold Standard,Active
+2024-03-01,2024,3,Reforestation,106483.0,3802.95,33.0,1,Asia Pacific,Gold Standard,Active
+2024-03-01,2024,3,Renewable Energy,100482.0,2232.94,45.0,2,Europe,CAR,Active
+2024-03-01,2024,3,Methane Capture,158452.0,4527.2,36.0,2,North America,VCS,Active
+2024-03-01,2024,3,Soil Carbon,148910.0,4653.45,29.0,3,Middle East & Africa,Gold Standard,Active
+2024-03-01,2024,3,Direct Air Capture,489614.0,2720.08,150.0,1,North America,VCS,Active
+2024-04-01,2024,4,Reforestation,111601.0,3985.74,26.0,3,Asia Pacific,VCS,Completed
+2024-04-01,2024,4,Renewable Energy,214361.0,4763.58,40.0,1,North America,CDM,Completed
+2024-04-01,2024,4,Methane Capture,179627.0,5132.2,35.0,3,Latin America,CDM,Active
+2024-04-01,2024,4,Soil Carbon,72913.0,2278.53,37.0,3,Europe,Gold Standard,Completed
+2024-04-01,2024,4,Direct Air Capture,427340.0,2374.11,189.0,2,Middle East & Africa,CAR,Active
+2024-05-01,2024,5,Reforestation,64382.0,2299.37,24.0,4,Asia Pacific,CAR,Completed
+2024-05-01,2024,5,Renewable Energy,210110.0,4669.11,41.0,1,Latin America,CAR,Active
+2024-05-01,2024,5,Methane Capture,130524.0,3729.26,35.0,2,Latin America,CAR,In Development
+2024-05-01,2024,5,Soil Carbon,81328.0,2541.5,37.0,3,Asia Pacific,VCS,Active
+2024-05-01,2024,5,Direct Air Capture,559032.0,3105.73,186.0,1,Middle East & Africa,CAR,Active
+2024-06-01,2024,6,Reforestation,110166.0,3934.5,23.0,4,Middle East & Africa,VCS,Active
+2024-06-01,2024,6,Renewable Energy,125543.0,2789.85,48.0,2,Europe,Gold Standard,Active
+2024-06-01,2024,6,Methane Capture,131219.0,3749.1,37.0,4,Asia Pacific,VCS,Active
+2024-06-01,2024,6,Soil Carbon,150934.0,4716.67,33.0,1,Europe,Gold Standard,Completed
+2024-06-01,2024,6,Direct Air Capture,563163.0,3128.69,162.0,3,Middle East & Africa,Gold Standard,Active
+2024-07-01,2024,7,Reforestation,97199.0,3471.38,31.0,1,Middle East & Africa,Gold Standard,In Development
+2024-07-01,2024,7,Renewable Energy,188250.0,4183.34,45.0,2,Asia Pacific,Gold Standard,In Development
+2024-07-01,2024,7,Methane Capture,133698.0,3819.94,32.0,4,Latin America,Gold Standard,Completed
+2024-07-01,2024,7,Soil Carbon,153208.0,4787.75,31.0,1,Middle East & Africa,CAR,Active
+2024-07-01,2024,7,Direct Air Capture,416417.0,2313.43,184.0,2,Middle East & Africa,CAR,Active
+2024-08-01,2024,8,Reforestation,172731.0,6168.97,26.0,1,Europe,CAR,Completed
+2024-08-01,2024,8,Renewable Energy,208023.0,4622.74,46.0,3,Asia Pacific,CDM,Completed
+2024-08-01,2024,8,Methane Capture,141404.0,4040.12,34.0,1,North America,VCS,Completed
+2024-08-01,2024,8,Soil Carbon,163940.0,5123.11,31.0,2,Asia Pacific,Gold Standard,Active
+2024-08-01,2024,8,Direct Air Capture,589752.0,3276.4,211.0,3,Latin America,Gold Standard,Active
+2024-09-01,2024,9,Reforestation,149715.0,5346.97,28.0,4,North America,VCS,Active
+2024-09-01,2024,9,Renewable Energy,252273.0,5606.07,47.0,2,Middle East & Africa,CDM,Active
+2024-09-01,2024,9,Methane Capture,217206.0,6205.9,30.0,4,Asia Pacific,Gold Standard,Active
+2024-09-01,2024,9,Soil Carbon,118330.0,3697.82,33.0,1,North America,VCS,Active
+2024-09-01,2024,9,Direct Air Capture,591920.0,3288.45,176.0,4,Asia Pacific,Gold Standard,Active
+2024-10-01,2024,10,Reforestation,144557.0,5162.76,23.0,3,North America,CDM,Completed
+2024-10-01,2024,10,Renewable Energy,189488.0,4210.85,53.0,4,Asia Pacific,Gold Standard,Active
+2024-10-01,2024,10,Methane Capture,167039.0,4772.54,35.0,4,Asia Pacific,Gold Standard,Active
+2024-10-01,2024,10,Soil Carbon,56680.0,1771.25,31.0,4,Middle East & Africa,Gold Standard,Active
+2024-10-01,2024,10,Direct Air Capture,127730.0,709.61,157.0,2,Asia Pacific,VCS,Active
+2024-11-01,2024,11,Reforestation,59678.0,2131.35,27.0,4,Latin America,CAR,Active
+2024-11-01,2024,11,Renewable Energy,253075.0,5623.89,37.0,3,North America,Gold Standard,Completed
+2024-11-01,2024,11,Methane Capture,108014.0,3086.1,34.0,4,Latin America,VCS,Completed
+2024-11-01,2024,11,Soil Carbon,91469.0,2858.41,28.0,2,Middle East & Africa,VCS,Active
+2024-11-01,2024,11,Direct Air Capture,361445.0,2008.03,184.0,3,Middle East & Africa,Gold Standard,Active
+2024-12-01,2024,12,Reforestation,154725.0,5525.9,30.0,3,Middle East & Africa,CAR,Completed
+2024-12-01,2024,12,Renewable Energy,211699.0,4704.42,35.0,3,Europe,Gold Standard,Active
+2024-12-01,2024,12,Methane Capture,135182.0,3862.36,36.0,3,Europe,Gold Standard,Active
+2024-12-01,2024,12,Soil Carbon,152904.0,4778.25,24.0,3,Europe,Gold Standard,Completed
+2024-12-01,2024,12,Direct Air Capture,316415.0,1757.86,195.0,1,Europe,CAR,Active

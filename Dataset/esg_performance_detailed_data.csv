@@ -1,0 +1,1441 @@
+Date,Year,Month,Region,ESG_Category,Current_Score,Industry_Average,Target_Score,Improvement_Rate_per_Month,Investment_Allocation_USD,Initiatives_Count
+2022-01-01,2022,1,North America,Carbon Footprint,73.5,64.3,87.3,0.07,66807.0,5
+2022-01-01,2022,1,North America,Water Stewardship,80.2,70.8,91.2,0.28,73253.0,6
+2022-01-01,2022,1,North America,Waste Management,77.0,70.9,94.5,0.28,76944.0,4
+2022-01-01,2022,1,North America,Supply Chain,66.4,60.5,82.8,0.12,77703.0,10
+2022-01-01,2022,1,North America,Employee Wellbeing,94.4,75.8,95.0,0.23,42094.0,5
+2022-01-01,2022,1,North America,Community Impact,67.3,63.5,85.8,0.07,47754.0,7
+2022-01-01,2022,1,North America,Governance,90.0,78.9,95.0,0.26,32398.0,9
+2022-01-01,2022,1,North America,Innovation,76.8,70.1,87.0,0.28,66313.0,5
+2022-01-01,2022,1,Europe,Carbon Footprint,74.2,62.5,90.4,0.27,59908.0,3
+2022-01-01,2022,1,Europe,Water Stewardship,80.2,66.8,93.6,0.16,67690.0,6
+2022-01-01,2022,1,Europe,Waste Management,81.4,72.3,95.0,0.17,64637.0,3
+2022-01-01,2022,1,Europe,Supply Chain,74.8,61.8,88.6,0.15,35369.0,7
+2022-01-01,2022,1,Europe,Employee Wellbeing,92.7,77.4,95.0,0.14,81209.0,4
+2022-01-01,2022,1,Europe,Community Impact,76.6,65.5,85.1,0.17,38416.0,7
+2022-01-01,2022,1,Europe,Governance,88.8,78.7,95.0,0.12,32165.0,7
+2022-01-01,2022,1,Europe,Innovation,76.9,64.1,92.0,0.07,65601.0,10
+2022-01-01,2022,1,Asia Pacific,Carbon Footprint,68.7,65.9,95.0,0.25,65065.0,6
+2022-01-01,2022,1,Asia Pacific,Water Stewardship,75.7,74.2,91.5,0.33,60138.0,7
+2022-01-01,2022,1,Asia Pacific,Waste Management,75.9,78.0,95.0,0.28,49758.0,9
+2022-01-01,2022,1,Asia Pacific,Supply Chain,68.9,59.4,83.5,0.21,27389.0,10
+2022-01-01,2022,1,Asia Pacific,Employee Wellbeing,84.3,78.1,95.0,0.21,57348.0,6
+2022-01-01,2022,1,Asia Pacific,Community Impact,76.8,65.4,83.2,0.27,60970.0,3
+2022-01-01,2022,1,Asia Pacific,Governance,87.7,81.1,95.0,0.21,32555.0,11
+2022-01-01,2022,1,Asia Pacific,Innovation,72.7,68.5,89.8,0.13,35756.0,8
+2022-01-01,2022,1,Latin America,Carbon Footprint,72.7,61.2,85.3,0.15,39875.0,3
+2022-01-01,2022,1,Latin America,Water Stewardship,75.1,72.2,95.0,0.33,28967.0,5
+2022-01-01,2022,1,Latin America,Waste Management,84.2,72.3,95.0,-0.05,70010.0,10
+2022-01-01,2022,1,Latin America,Supply Chain,69.0,61.6,84.8,0.13,32535.0,6
+2022-01-01,2022,1,Latin America,Employee Wellbeing,91.8,79.0,95.0,0.26,83899.0,4
+2022-01-01,2022,1,Latin America,Community Impact,75.1,63.6,88.4,0.29,60729.0,7
+2022-01-01,2022,1,Latin America,Governance,89.4,79.5,95.0,0.18,36207.0,5
+2022-01-01,2022,1,Latin America,Innovation,62.3,68.5,85.1,0.11,33831.0,10
+2022-01-01,2022,1,Middle East & Africa,Carbon Footprint,79.6,61.0,93.7,0.34,67290.0,8
+2022-01-01,2022,1,Middle East & Africa,Water Stewardship,78.6,66.6,94.5,0.05,50916.0,3
+2022-01-01,2022,1,Middle East & Africa,Waste Management,75.4,73.9,94.4,0.24,84797.0,7
+2022-01-01,2022,1,Middle East & Africa,Supply Chain,63.5,57.7,82.5,0.1,46921.0,8
+2022-01-01,2022,1,Middle East & Africa,Employee Wellbeing,93.3,77.6,95.0,0.15,47086.0,11
+2022-01-01,2022,1,Middle East & Africa,Community Impact,73.2,66.7,90.0,0.32,26018.0,9
+2022-01-01,2022,1,Middle East & Africa,Governance,89.2,78.1,95.0,0.22,66639.0,7
+2022-01-01,2022,1,Middle East & Africa,Innovation,73.5,67.7,92.3,0.25,40217.0,9
+2022-02-01,2022,2,North America,Carbon Footprint,68.3,63.4,80.5,0.2,66508.0,3
+2022-02-01,2022,2,North America,Water Stewardship,77.1,68.0,95.0,0.21,60138.0,11
+2022-02-01,2022,2,North America,Waste Management,82.1,69.3,95.0,0.29,84319.0,7
+2022-02-01,2022,2,North America,Supply Chain,72.2,59.3,78.3,0.16,48792.0,11
+2022-02-01,2022,2,North America,Employee Wellbeing,90.5,75.1,95.0,0.09,39589.0,8
+2022-02-01,2022,2,North America,Community Impact,76.2,63.1,85.7,0.38,26535.0,3
+2022-02-01,2022,2,North America,Governance,93.1,80.2,95.0,0.4,77927.0,4
+2022-02-01,2022,2,North America,Innovation,78.9,63.1,88.1,0.19,35565.0,7
+2022-02-01,2022,2,Europe,Carbon Footprint,78.5,64.1,92.0,0.3,37823.0,3
+2022-02-01,2022,2,Europe,Water Stewardship,87.3,70.6,88.9,0.41,59692.0,7
+2022-02-01,2022,2,Europe,Waste Management,86.9,70.7,87.9,0.28,58578.0,5
+2022-02-01,2022,2,Europe,Supply Chain,80.9,57.7,85.2,0.12,56261.0,10
+2022-02-01,2022,2,Europe,Employee Wellbeing,90.1,79.4,95.0,0.12,50121.0,8
+2022-02-01,2022,2,Europe,Community Impact,79.3,63.4,83.5,0.09,83795.0,6
+2022-02-01,2022,2,Europe,Governance,97.4,83.0,95.0,0.16,44390.0,10
+2022-02-01,2022,2,Europe,Innovation,73.8,68.9,94.0,0.12,58004.0,9
+2022-02-01,2022,2,Asia Pacific,Carbon Footprint,70.9,63.0,90.1,0.05,31881.0,5
+2022-02-01,2022,2,Asia Pacific,Water Stewardship,70.0,71.7,94.0,0.28,77217.0,6
+2022-02-01,2022,2,Asia Pacific,Waste Management,77.5,71.1,93.1,0.0,65867.0,9
+2022-02-01,2022,2,Asia Pacific,Supply Chain,76.9,59.3,81.0,0.03,67623.0,9
+2022-02-01,2022,2,Asia Pacific,Employee Wellbeing,88.4,75.2,95.0,0.15,61589.0,9
+2022-02-01,2022,2,Asia Pacific,Community Impact,64.0,64.7,82.2,0.08,44963.0,4
+2022-02-01,2022,2,Asia Pacific,Governance,84.2,80.3,95.0,0.2,77144.0,3
+2022-02-01,2022,2,Asia Pacific,Innovation,73.5,64.5,90.2,0.34,79018.0,4
+2022-02-01,2022,2,Latin America,Carbon Footprint,72.5,65.0,88.2,0.29,82616.0,10
+2022-02-01,2022,2,Latin America,Water Stewardship,80.4,71.7,94.5,0.27,34697.0,8
+2022-02-01,2022,2,Latin America,Waste Management,76.5,71.3,95.0,0.18,44005.0,7
+2022-02-01,2022,2,Latin America,Supply Chain,70.0,60.2,75.0,0.23,49648.0,5
+2022-02-01,2022,2,Latin America,Employee Wellbeing,90.2,77.3,95.0,0.15,65249.0,3
+2022-02-01,2022,2,Latin America,Community Impact,69.4,67.2,84.6,0.03,45975.0,10
+2022-02-01,2022,2,Latin America,Governance,89.5,81.3,95.0,0.21,67792.0,8
+2022-02-01,2022,2,Latin America,Innovation,74.2,66.1,91.7,0.22,70779.0,7
+2022-02-01,2022,2,Middle East & Africa,Carbon Footprint,64.5,61.2,82.0,0.32,38567.0,8
+2022-02-01,2022,2,Middle East & Africa,Water Stewardship,76.7,69.9,86.4,0.22,26443.0,5
+2022-02-01,2022,2,Middle East & Africa,Waste Management,74.5,73.4,91.6,0.22,84041.0,11
+2022-02-01,2022,2,Middle East & Africa,Supply Chain,72.4,61.9,84.5,0.19,50424.0,5
+2022-02-01,2022,2,Middle East & Africa,Employee Wellbeing,83.3,76.4,95.0,0.24,64255.0,6
+2022-02-01,2022,2,Middle East & Africa,Community Impact,72.8,67.0,90.9,0.41,78134.0,3
+2022-02-01,2022,2,Middle East & Africa,Governance,87.9,79.2,95.0,0.35,46138.0,5
+2022-02-01,2022,2,Middle East & Africa,Innovation,75.2,66.7,92.9,0.07,72226.0,3
+2022-03-01,2022,3,North America,Carbon Footprint,72.1,63.6,83.8,0.29,25089.0,5
+2022-03-01,2022,3,North America,Water Stewardship,78.0,69.7,90.5,0.16,67382.0,5
+2022-03-01,2022,3,North America,Waste Management,84.5,75.4,95.0,0.17,74328.0,4
+2022-03-01,2022,3,North America,Supply Chain,69.2,59.7,82.2,0.32,72327.0,6
+2022-03-01,2022,3,North America,Employee Wellbeing,86.1,76.3,95.0,0.18,38709.0,10
+2022-03-01,2022,3,North America,Community Impact,76.8,64.1,87.6,0.07,77696.0,3
+2022-03-01,2022,3,North America,Governance,90.6,79.5,95.0,0.27,75528.0,7
+2022-03-01,2022,3,North America,Innovation,77.0,69.0,87.4,0.25,81341.0,10
+2022-03-01,2022,3,Europe,Carbon Footprint,79.4,60.9,91.5,0.08,84625.0,3
+2022-03-01,2022,3,Europe,Water Stewardship,78.2,64.3,94.4,0.04,75038.0,5
+2022-03-01,2022,3,Europe,Waste Management,86.2,70.8,90.2,0.19,82765.0,5
+2022-03-01,2022,3,Europe,Supply Chain,76.8,61.4,88.4,0.13,59349.0,4
+2022-03-01,2022,3,Europe,Employee Wellbeing,91.2,77.0,95.0,-0.07,65434.0,4
+2022-03-01,2022,3,Europe,Community Impact,79.5,66.9,89.0,0.27,55694.0,11
+2022-03-01,2022,3,Europe,Governance,93.5,74.2,95.0,0.14,31072.0,7
+2022-03-01,2022,3,Europe,Innovation,84.1,65.2,93.3,0.1,36758.0,5
+2022-03-01,2022,3,Asia Pacific,Carbon Footprint,67.4,66.4,86.0,0.17,46503.0,3
+2022-03-01,2022,3,Asia Pacific,Water Stewardship,76.3,69.6,92.5,0.3,34430.0,8
+2022-03-01,2022,3,Asia Pacific,Waste Management,77.0,70.9,95.0,0.21,44588.0,9
+2022-03-01,2022,3,Asia Pacific,Supply Chain,64.6,57.9,82.9,0.05,50034.0,11
+2022-03-01,2022,3,Asia Pacific,Employee Wellbeing,83.0,78.6,95.0,0.07,72525.0,3
+2022-03-01,2022,3,Asia Pacific,Community Impact,68.2,64.8,87.0,0.18,82635.0,4
+2022-03-01,2022,3,Asia Pacific,Governance,91.9,80.2,95.0,-0.0,25411.0,6
+2022-03-01,2022,3,Asia Pacific,Innovation,75.4,72.7,94.0,0.16,55098.0,8
+2022-03-01,2022,3,Latin America,Carbon Footprint,74.6,63.5,86.1,-0.02,46132.0,11
+2022-03-01,2022,3,Latin America,Water Stewardship,78.6,70.5,91.8,0.23,26791.0,10
+2022-03-01,2022,3,Latin America,Waste Management,86.2,72.8,94.5,0.19,29639.0,3
+2022-03-01,2022,3,Latin America,Supply Chain,70.2,58.3,83.6,0.27,26965.0,8
+2022-03-01,2022,3,Latin America,Employee Wellbeing,85.2,78.3,95.0,0.12,55333.0,5
+2022-03-01,2022,3,Latin America,Community Impact,77.8,67.7,92.6,0.13,30910.0,9
+2022-03-01,2022,3,Latin America,Governance,96.0,82.6,95.0,0.14,54647.0,7
+2022-03-01,2022,3,Latin America,Innovation,69.0,64.1,95.0,0.07,42994.0,5
+2022-03-01,2022,3,Middle East & Africa,Carbon Footprint,81.8,63.9,90.0,0.22,71149.0,3
+2022-03-01,2022,3,Middle East & Africa,Water Stewardship,69.5,73.1,94.2,0.19,52408.0,9
+2022-03-01,2022,3,Middle East & Africa,Waste Management,78.8,71.3,95.0,0.28,33430.0,8
+2022-03-01,2022,3,Middle East & Africa,Supply Chain,65.9,57.9,86.5,0.04,29782.0,3
+2022-03-01,2022,3,Middle East & Africa,Employee Wellbeing,90.8,79.6,95.0,0.16,78165.0,3
+2022-03-01,2022,3,Middle East & Africa,Community Impact,69.5,65.9,92.2,0.32,73256.0,6
+2022-03-01,2022,3,Middle East & Africa,Governance,92.1,79.6,95.0,0.35,84964.0,7
+2022-03-01,2022,3,Middle East & Africa,Innovation,78.6,69.4,95.0,0.25,72917.0,8
+2022-04-01,2022,4,North America,Carbon Footprint,80.5,62.8,86.4,0.1,77307.0,8
+2022-04-01,2022,4,North America,Water Stewardship,74.8,72.3,91.6,0.15,45428.0,10
+2022-04-01,2022,4,North America,Waste Management,75.0,73.5,94.6,0.32,44395.0,8
+2022-04-01,2022,4,North America,Supply Chain,73.9,63.8,86.1,0.31,30232.0,5
+2022-04-01,2022,4,North America,Employee Wellbeing,86.4,78.8,95.0,0.16,39943.0,6
+2022-04-01,2022,4,North America,Community Impact,76.2,64.2,87.1,0.37,80938.0,11
+2022-04-01,2022,4,North America,Governance,91.0,80.6,95.0,0.34,50247.0,5
+2022-04-01,2022,4,North America,Innovation,74.7,65.0,89.2,0.04,43899.0,10
+2022-04-01,2022,4,Europe,Carbon Footprint,78.4,64.1,88.7,-0.05,40411.0,11
+2022-04-01,2022,4,Europe,Water Stewardship,85.2,67.6,94.2,0.33,29727.0,8
+2022-04-01,2022,4,Europe,Waste Management,82.9,73.2,95.0,0.24,84188.0,6
+2022-04-01,2022,4,Europe,Supply Chain,73.3,59.2,85.3,0.23,81286.0,11
+2022-04-01,2022,4,Europe,Employee Wellbeing,95.8,79.2,95.0,0.26,53075.0,3
+2022-04-01,2022,4,Europe,Community Impact,80.0,61.8,89.3,0.1,42649.0,4
+2022-04-01,2022,4,Europe,Governance,93.5,77.3,95.0,0.22,56789.0,9
+2022-04-01,2022,4,Europe,Innovation,82.9,65.3,86.5,0.26,65163.0,4
+2022-04-01,2022,4,Asia Pacific,Carbon Footprint,76.4,65.9,88.7,0.23,81870.0,10
+2022-04-01,2022,4,Asia Pacific,Water Stewardship,74.1,69.8,91.3,0.07,77055.0,7
+2022-04-01,2022,4,Asia Pacific,Waste Management,72.4,74.8,95.0,0.24,43074.0,11
+2022-04-01,2022,4,Asia Pacific,Supply Chain,65.8,59.1,83.1,0.21,58292.0,9
+2022-04-01,2022,4,Asia Pacific,Employee Wellbeing,81.8,76.8,95.0,0.15,80414.0,10
+2022-04-01,2022,4,Asia Pacific,Community Impact,74.2,64.0,86.1,0.14,71052.0,5
+2022-04-01,2022,4,Asia Pacific,Governance,86.2,79.4,95.0,0.22,40820.0,6
+2022-04-01,2022,4,Asia Pacific,Innovation,77.9,69.0,91.1,0.29,51991.0,9
+2022-04-01,2022,4,Latin America,Carbon Footprint,69.1,65.3,82.6,0.2,78947.0,5
+2022-04-01,2022,4,Latin America,Water Stewardship,77.7,72.4,90.8,0.27,70825.0,4
+2022-04-01,2022,4,Latin America,Waste Management,77.5,72.0,95.0,0.21,70333.0,3
+2022-04-01,2022,4,Latin America,Supply Chain,74.3,59.9,81.5,0.22,44538.0,8
+2022-04-01,2022,4,Latin America,Employee Wellbeing,88.7,75.1,95.0,0.25,58024.0,10
+2022-04-01,2022,4,Latin America,Community Impact,69.2,63.7,86.7,0.22,74960.0,11
+2022-04-01,2022,4,Latin America,Governance,89.3,81.0,95.0,0.23,38405.0,3
+2022-04-01,2022,4,Latin America,Innovation,80.2,66.5,95.0,0.26,66488.0,8
+2022-04-01,2022,4,Middle East & Africa,Carbon Footprint,71.9,62.7,90.9,0.34,68701.0,7
+2022-04-01,2022,4,Middle East & Africa,Water Stewardship,77.3,71.9,95.0,0.21,74994.0,8
+2022-04-01,2022,4,Middle East & Africa,Waste Management,78.1,70.4,95.0,0.23,60139.0,3
+2022-04-01,2022,4,Middle East & Africa,Supply Chain,69.6,56.9,85.1,0.24,83059.0,11
+2022-04-01,2022,4,Middle East & Africa,Employee Wellbeing,91.2,76.6,95.0,0.2,81394.0,11
+2022-04-01,2022,4,Middle East & Africa,Community Impact,73.1,65.6,94.3,0.08,73990.0,11
+2022-04-01,2022,4,Middle East & Africa,Governance,89.6,80.1,95.0,0.26,63920.0,10
+2022-04-01,2022,4,Middle East & Africa,Innovation,79.5,66.5,89.9,0.1,53957.0,9
+2022-05-01,2022,5,North America,Carbon Footprint,71.6,65.2,90.3,0.13,49895.0,10
+2022-05-01,2022,5,North America,Water Stewardship,84.5,68.9,95.0,0.2,44643.0,6
+2022-05-01,2022,5,North America,Waste Management,77.8,74.0,89.2,0.23,40592.0,7
+2022-05-01,2022,5,North America,Supply Chain,65.6,58.4,83.2,0.35,48086.0,10
+2022-05-01,2022,5,North America,Employee Wellbeing,82.5,73.9,95.0,0.11,56445.0,3
+2022-05-01,2022,5,North America,Community Impact,71.9,64.1,85.9,0.15,36708.0,11
+2022-05-01,2022,5,North America,Governance,94.5,81.0,95.0,0.3,67245.0,8
+2022-05-01,2022,5,North America,Innovation,78.1,67.4,88.2,0.12,30596.0,10
+2022-05-01,2022,5,Europe,Carbon Footprint,81.3,63.8,82.9,-0.01,51901.0,8
+2022-05-01,2022,5,Europe,Water Stewardship,81.0,72.5,89.4,0.25,58243.0,7
+2022-05-01,2022,5,Europe,Waste Management,84.0,72.0,93.8,0.2,46155.0,8
+2022-05-01,2022,5,Europe,Supply Chain,76.4,59.6,87.1,0.33,47466.0,3
+2022-05-01,2022,5,Europe,Employee Wellbeing,94.4,79.0,92.6,0.29,57299.0,9
+2022-05-01,2022,5,Europe,Community Impact,82.6,67.6,88.7,0.28,25871.0,8
+2022-05-01,2022,5,Europe,Governance,91.1,80.3,95.0,0.11,67270.0,11
+2022-05-01,2022,5,Europe,Innovation,86.7,70.3,87.2,0.14,36971.0,4
+2022-05-01,2022,5,Asia Pacific,Carbon Footprint,68.2,64.7,84.4,0.13,67771.0,4
+2022-05-01,2022,5,Asia Pacific,Water Stewardship,75.5,69.5,90.5,0.04,70229.0,3
+2022-05-01,2022,5,Asia Pacific,Waste Management,84.3,71.4,95.0,0.28,59846.0,8
+2022-05-01,2022,5,Asia Pacific,Supply Chain,66.4,58.8,80.1,0.31,83715.0,4
+2022-05-01,2022,5,Asia Pacific,Employee Wellbeing,83.8,78.2,95.0,0.24,74904.0,6
+2022-05-01,2022,5,Asia Pacific,Community Impact,70.0,65.2,90.2,0.19,41445.0,3
+2022-05-01,2022,5,Asia Pacific,Governance,78.5,82.1,95.0,0.02,62295.0,6
+2022-05-01,2022,5,Asia Pacific,Innovation,73.7,67.0,88.7,0.1,77985.0,6
+2022-05-01,2022,5,Latin America,Carbon Footprint,73.7,65.2,92.3,0.14,76814.0,8
+2022-05-01,2022,5,Latin America,Water Stewardship,76.1,70.4,95.0,0.17,52061.0,10
+2022-05-01,2022,5,Latin America,Waste Management,89.0,68.7,95.0,0.05,38371.0,5
+2022-05-01,2022,5,Latin America,Supply Chain,68.7,57.6,82.8,0.25,49224.0,5
+2022-05-01,2022,5,Latin America,Employee Wellbeing,97.0,77.7,94.5,0.06,67026.0,11
+2022-05-01,2022,5,Latin America,Community Impact,72.4,69.4,95.0,0.17,69559.0,9
+2022-05-01,2022,5,Latin America,Governance,94.0,78.7,95.0,0.19,55139.0,11
+2022-05-01,2022,5,Latin America,Innovation,76.2,67.6,86.4,0.0,31252.0,6
+2022-05-01,2022,5,Middle East & Africa,Carbon Footprint,74.0,64.9,87.0,0.35,37370.0,7
+2022-05-01,2022,5,Middle East & Africa,Water Stewardship,76.9,72.3,87.3,0.19,25663.0,8
+2022-05-01,2022,5,Middle East & Africa,Waste Management,82.1,77.3,95.0,0.21,44012.0,7
+2022-05-01,2022,5,Middle East & Africa,Supply Chain,63.6,61.3,83.5,0.23,28198.0,10
+2022-05-01,2022,5,Middle East & Africa,Employee Wellbeing,84.9,77.0,95.0,0.09,35223.0,6
+2022-05-01,2022,5,Middle East & Africa,Community Impact,70.3,67.4,87.5,0.26,27398.0,8
+2022-05-01,2022,5,Middle East & Africa,Governance,83.8,79.2,95.0,0.26,81432.0,8
+2022-05-01,2022,5,Middle East & Africa,Innovation,68.7,68.7,86.6,0.3,27233.0,9
+2022-06-01,2022,6,North America,Carbon Footprint,75.0,60.3,89.2,0.3,45914.0,9
+2022-06-01,2022,6,North America,Water Stewardship,79.7,71.4,95.0,0.24,75618.0,6
+2022-06-01,2022,6,North America,Waste Management,85.0,71.7,92.6,0.13,63587.0,9
+2022-06-01,2022,6,North America,Supply Chain,68.9,59.6,77.7,0.19,57767.0,4
+2022-06-01,2022,6,North America,Employee Wellbeing,90.7,75.0,95.0,0.3,29491.0,9
+2022-06-01,2022,6,North America,Community Impact,74.0,66.9,88.8,0.2,63178.0,10
+2022-06-01,2022,6,North America,Governance,84.2,81.3,95.0,0.08,52364.0,6
+2022-06-01,2022,6,North America,Innovation,75.6,69.0,87.3,0.26,55229.0,6
+2022-06-01,2022,6,Europe,Carbon Footprint,76.4,68.2,81.3,0.2,27905.0,11
+2022-06-01,2022,6,Europe,Water Stewardship,76.4,68.9,87.9,0.43,40329.0,3
+2022-06-01,2022,6,Europe,Waste Management,85.8,69.7,95.0,0.26,41606.0,9
+2022-06-01,2022,6,Europe,Supply Chain,78.5,62.0,82.3,0.29,39621.0,7
+2022-06-01,2022,6,Europe,Employee Wellbeing,90.3,76.0,95.0,0.3,51201.0,5
+2022-06-01,2022,6,Europe,Community Impact,75.7,63.4,85.5,0.21,70062.0,10
+2022-06-01,2022,6,Europe,Governance,94.7,81.2,95.0,0.21,25777.0,8
+2022-06-01,2022,6,Europe,Innovation,85.1,68.9,95.0,0.26,63330.0,4
+2022-06-01,2022,6,Asia Pacific,Carbon Footprint,71.0,65.6,84.4,0.33,80154.0,7
+2022-06-01,2022,6,Asia Pacific,Water Stewardship,77.2,70.2,93.7,0.27,34944.0,11
+2022-06-01,2022,6,Asia Pacific,Waste Management,85.8,68.0,95.0,0.2,26669.0,11
+2022-06-01,2022,6,Asia Pacific,Supply Chain,65.3,55.3,84.7,0.19,56281.0,3
+2022-06-01,2022,6,Asia Pacific,Employee Wellbeing,81.8,73.5,95.0,0.26,66764.0,3
+2022-06-01,2022,6,Asia Pacific,Community Impact,71.4,67.1,87.7,0.28,65985.0,7
+2022-06-01,2022,6,Asia Pacific,Governance,84.2,78.6,95.0,0.13,63960.0,5
+2022-06-01,2022,6,Asia Pacific,Innovation,60.7,65.6,86.0,0.21,57039.0,6
+2022-06-01,2022,6,Latin America,Carbon Footprint,76.6,60.7,87.6,0.25,43189.0,8
+2022-06-01,2022,6,Latin America,Water Stewardship,73.6,73.0,90.5,0.15,38043.0,8
+2022-06-01,2022,6,Latin America,Waste Management,80.9,73.8,90.7,0.15,44353.0,5
+2022-06-01,2022,6,Latin America,Supply Chain,74.7,62.8,83.8,0.25,34896.0,9
+2022-06-01,2022,6,Latin America,Employee Wellbeing,87.9,74.4,95.0,0.19,43400.0,6
+2022-06-01,2022,6,Latin America,Community Impact,72.1,67.3,92.7,0.2,37294.0,10
+2022-06-01,2022,6,Latin America,Governance,81.7,78.2,95.0,0.21,27385.0,6
+2022-06-01,2022,6,Latin America,Innovation,74.7,67.7,85.9,0.28,64100.0,7
+2022-06-01,2022,6,Middle East & Africa,Carbon Footprint,70.7,63.0,85.3,0.15,53101.0,11
+2022-06-01,2022,6,Middle East & Africa,Water Stewardship,81.9,70.9,93.1,0.24,39284.0,11
+2022-06-01,2022,6,Middle East & Africa,Waste Management,84.8,73.3,95.0,0.24,58759.0,7
+2022-06-01,2022,6,Middle East & Africa,Supply Chain,70.1,61.3,82.9,-0.03,63099.0,3
+2022-06-01,2022,6,Middle East & Africa,Employee Wellbeing,81.7,75.3,95.0,0.28,57709.0,10
+2022-06-01,2022,6,Middle East & Africa,Community Impact,70.7,64.3,88.3,0.22,35623.0,10
+2022-06-01,2022,6,Middle East & Africa,Governance,90.1,80.9,95.0,0.03,66620.0,6
+2022-06-01,2022,6,Middle East & Africa,Innovation,68.2,69.6,84.8,0.12,67811.0,7
+2022-07-01,2022,7,North America,Carbon Footprint,73.3,63.6,84.2,0.25,43693.0,3
+2022-07-01,2022,7,North America,Water Stewardship,77.8,71.4,95.0,0.11,36966.0,5
+2022-07-01,2022,7,North America,Waste Management,81.9,73.8,95.0,-0.02,40644.0,8
+2022-07-01,2022,7,North America,Supply Chain,66.3,60.4,82.7,0.29,36709.0,5
+2022-07-01,2022,7,North America,Employee Wellbeing,84.9,79.0,95.0,0.21,64103.0,9
+2022-07-01,2022,7,North America,Community Impact,77.3,62.6,90.3,0.18,32772.0,5
+2022-07-01,2022,7,North America,Governance,88.5,78.7,95.0,0.18,80503.0,9
+2022-07-01,2022,7,North America,Innovation,75.0,65.5,84.0,0.28,84950.0,5
+2022-07-01,2022,7,Europe,Carbon Footprint,78.5,63.6,90.5,0.07,31279.0,7
+2022-07-01,2022,7,Europe,Water Stewardship,86.8,65.5,95.0,0.28,56736.0,3
+2022-07-01,2022,7,Europe,Waste Management,82.6,72.9,95.0,0.1,64420.0,5
+2022-07-01,2022,7,Europe,Supply Chain,82.0,61.0,84.7,0.17,80672.0,9
+2022-07-01,2022,7,Europe,Employee Wellbeing,90.5,79.7,95.0,0.23,44605.0,3
+2022-07-01,2022,7,Europe,Community Impact,84.1,65.3,88.5,0.22,37885.0,6
+2022-07-01,2022,7,Europe,Governance,98.0,82.1,95.0,0.09,60454.0,8
+2022-07-01,2022,7,Europe,Innovation,85.4,70.3,92.4,0.12,35587.0,8
+2022-07-01,2022,7,Asia Pacific,Carbon Footprint,67.8,64.6,87.5,0.25,31663.0,10
+2022-07-01,2022,7,Asia Pacific,Water Stewardship,69.0,69.7,94.6,0.27,62383.0,11
+2022-07-01,2022,7,Asia Pacific,Waste Management,76.7,73.0,94.1,0.29,50906.0,11
+2022-07-01,2022,7,Asia Pacific,Supply Chain,63.1,62.2,84.7,0.41,31996.0,10
+2022-07-01,2022,7,Asia Pacific,Employee Wellbeing,85.3,78.2,95.0,0.23,78034.0,6
+2022-07-01,2022,7,Asia Pacific,Community Impact,72.5,67.0,94.4,0.12,67489.0,10
+2022-07-01,2022,7,Asia Pacific,Governance,94.1,81.4,95.0,0.29,82289.0,10
+2022-07-01,2022,7,Asia Pacific,Innovation,76.9,69.9,87.5,0.16,32570.0,10
+2022-07-01,2022,7,Latin America,Carbon Footprint,81.1,60.1,86.7,0.21,70836.0,7
+2022-07-01,2022,7,Latin America,Water Stewardship,82.1,69.2,91.1,0.23,57505.0,10
+2022-07-01,2022,7,Latin America,Waste Management,81.7,70.6,95.0,0.23,71522.0,5
+2022-07-01,2022,7,Latin America,Supply Chain,77.0,60.1,83.9,0.09,68222.0,10
+2022-07-01,2022,7,Latin America,Employee Wellbeing,85.9,75.5,95.0,0.24,68802.0,5
+2022-07-01,2022,7,Latin America,Community Impact,76.1,65.1,90.9,-0.06,25737.0,11
+2022-07-01,2022,7,Latin America,Governance,83.0,82.8,95.0,0.16,25216.0,5
+2022-07-01,2022,7,Latin America,Innovation,71.8,67.4,91.0,0.34,37134.0,10
+2022-07-01,2022,7,Middle East & Africa,Carbon Footprint,73.8,66.2,89.7,0.26,30537.0,9
+2022-07-01,2022,7,Middle East & Africa,Water Stewardship,74.1,67.6,94.2,0.25,64385.0,10
+2022-07-01,2022,7,Middle East & Africa,Waste Management,84.4,71.7,95.0,0.1,39505.0,3
+2022-07-01,2022,7,Middle East & Africa,Supply Chain,67.9,56.3,83.1,0.32,35749.0,11
+2022-07-01,2022,7,Middle East & Africa,Employee Wellbeing,85.5,78.4,95.0,0.14,75743.0,7
+2022-07-01,2022,7,Middle East & Africa,Community Impact,76.1,63.8,83.8,0.22,81972.0,11
+2022-07-01,2022,7,Middle East & Africa,Governance,85.9,79.6,95.0,0.3,28981.0,11
+2022-07-01,2022,7,Middle East & Africa,Innovation,74.8,67.1,87.5,0.17,28321.0,8
+2022-08-01,2022,8,North America,Carbon Footprint,72.5,66.8,81.7,0.22,69183.0,6
+2022-08-01,2022,8,North America,Water Stewardship,78.7,67.9,92.4,0.23,54131.0,7
+2022-08-01,2022,8,North America,Waste Management,76.6,74.6,90.5,0.2,34615.0,5
+2022-08-01,2022,8,North America,Supply Chain,68.7,59.3,86.2,0.33,58270.0,3
+2022-08-01,2022,8,North America,Employee Wellbeing,88.1,76.5,95.0,0.28,62817.0,10
+2022-08-01,2022,8,North America,Community Impact,80.5,63.8,91.4,0.27,64611.0,3
+2022-08-01,2022,8,North America,Governance,90.6,79.7,95.0,0.05,46416.0,3
+2022-08-01,2022,8,North America,Innovation,74.1,65.3,93.2,0.19,55937.0,8
+2022-08-01,2022,8,Europe,Carbon Footprint,82.6,63.6,85.0,0.23,53650.0,10
+2022-08-01,2022,8,Europe,Water Stewardship,86.2,70.5,92.7,0.2,54740.0,3
+2022-08-01,2022,8,Europe,Waste Management,89.0,72.6,95.0,0.27,57116.0,11
+2022-08-01,2022,8,Europe,Supply Chain,77.3,60.3,82.3,0.25,25825.0,6
+2022-08-01,2022,8,Europe,Employee Wellbeing,92.0,77.3,95.0,0.23,31455.0,11
+2022-08-01,2022,8,Europe,Community Impact,86.8,63.0,86.5,0.48,69116.0,6
+2022-08-01,2022,8,Europe,Governance,93.5,80.1,95.0,0.24,56866.0,5
+2022-08-01,2022,8,Europe,Innovation,79.8,63.3,93.4,-0.01,37911.0,3
+2022-08-01,2022,8,Asia Pacific,Carbon Footprint,79.0,65.2,82.9,0.33,39242.0,4
+2022-08-01,2022,8,Asia Pacific,Water Stewardship,69.2,68.3,90.8,0.28,44422.0,8
+2022-08-01,2022,8,Asia Pacific,Waste Management,79.5,68.3,95.0,0.42,49797.0,6
+2022-08-01,2022,8,Asia Pacific,Supply Chain,69.3,61.7,80.2,0.35,71544.0,11
+2022-08-01,2022,8,Asia Pacific,Employee Wellbeing,80.1,80.3,95.0,0.33,77661.0,9
+2022-08-01,2022,8,Asia Pacific,Community Impact,74.2,67.3,87.9,0.11,28389.0,7
+2022-08-01,2022,8,Asia Pacific,Governance,84.0,83.3,95.0,0.26,26820.0,3
+2022-08-01,2022,8,Asia Pacific,Innovation,77.7,68.2,95.0,-0.01,38643.0,11
+2022-08-01,2022,8,Latin America,Carbon Footprint,70.4,62.6,82.9,0.21,66201.0,7
+2022-08-01,2022,8,Latin America,Water Stewardship,84.0,69.0,94.5,0.02,70773.0,11
+2022-08-01,2022,8,Latin America,Waste Management,78.8,71.6,92.9,0.11,72166.0,9
+2022-08-01,2022,8,Latin America,Supply Chain,72.4,59.1,81.0,0.16,31237.0,6
+2022-08-01,2022,8,Latin America,Employee Wellbeing,91.6,76.6,95.0,0.06,72293.0,5
+2022-08-01,2022,8,Latin America,Community Impact,78.9,62.6,88.9,0.23,66539.0,4
+2022-08-01,2022,8,Latin America,Governance,84.1,78.1,95.0,0.2,28050.0,9
+2022-08-01,2022,8,Latin America,Innovation,79.5,68.2,92.4,0.21,33071.0,5
+2022-08-01,2022,8,Middle East & Africa,Carbon Footprint,68.2,63.2,85.2,0.36,67268.0,5
+2022-08-01,2022,8,Middle East & Africa,Water Stewardship,77.3,69.6,94.2,0.06,40380.0,6
+2022-08-01,2022,8,Middle East & Africa,Waste Management,78.9,70.2,95.0,0.14,54013.0,6
+2022-08-01,2022,8,Middle East & Africa,Supply Chain,71.6,63.3,82.3,0.15,83716.0,7
+2022-08-01,2022,8,Middle East & Africa,Employee Wellbeing,80.9,76.5,95.0,0.2,31305.0,6
+2022-08-01,2022,8,Middle East & Africa,Community Impact,74.7,64.9,87.9,0.09,37075.0,9
+2022-08-01,2022,8,Middle East & Africa,Governance,94.9,77.6,95.0,0.01,53148.0,6
+2022-08-01,2022,8,Middle East & Africa,Innovation,66.4,68.5,89.9,0.34,79188.0,5
+2022-09-01,2022,9,North America,Carbon Footprint,72.5,62.3,85.8,0.08,37445.0,10
+2022-09-01,2022,9,North America,Water Stewardship,79.2,75.6,91.8,0.23,76421.0,7
+2022-09-01,2022,9,North America,Waste Management,82.6,71.5,95.0,0.11,78617.0,11
+2022-09-01,2022,9,North America,Supply Chain,68.8,61.8,80.5,0.28,74871.0,6
+2022-09-01,2022,9,North America,Employee Wellbeing,90.5,76.8,95.0,0.16,79625.0,7
+2022-09-01,2022,9,North America,Community Impact,75.9,66.1,89.0,0.28,73742.0,4
+2022-09-01,2022,9,North America,Governance,89.7,79.1,95.0,0.3,45354.0,9
+2022-09-01,2022,9,North America,Innovation,78.0,69.2,94.5,0.05,76734.0,11
+2022-09-01,2022,9,Europe,Carbon Footprint,78.6,63.6,91.8,-0.02,66019.0,6
+2022-09-01,2022,9,Europe,Water Stewardship,82.7,67.4,95.0,0.06,44484.0,8
+2022-09-01,2022,9,Europe,Waste Management,80.8,72.4,92.5,0.23,53865.0,9
+2022-09-01,2022,9,Europe,Supply Chain,81.1,60.6,85.9,-0.04,70460.0,10
+2022-09-01,2022,9,Europe,Employee Wellbeing,90.2,80.8,95.0,0.04,41404.0,8
+2022-09-01,2022,9,Europe,Community Impact,79.9,67.7,89.5,0.18,73784.0,6
+2022-09-01,2022,9,Europe,Governance,89.7,81.6,95.0,0.25,38600.0,3
+2022-09-01,2022,9,Europe,Innovation,79.7,65.7,90.4,0.27,50350.0,8
+2022-09-01,2022,9,Asia Pacific,Carbon Footprint,60.8,67.3,87.2,0.21,45245.0,11
+2022-09-01,2022,9,Asia Pacific,Water Stewardship,84.5,71.0,91.7,0.16,29763.0,6
+2022-09-01,2022,9,Asia Pacific,Waste Management,85.4,72.2,91.5,0.24,63006.0,9
+2022-09-01,2022,9,Asia Pacific,Supply Chain,63.6,57.8,87.3,0.04,32608.0,9
+2022-09-01,2022,9,Asia Pacific,Employee Wellbeing,88.9,74.9,95.0,0.26,68924.0,8
+2022-09-01,2022,9,Asia Pacific,Community Impact,73.5,65.7,91.1,0.06,41508.0,6
+2022-09-01,2022,9,Asia Pacific,Governance,75.9,81.7,95.0,0.26,61301.0,11
+2022-09-01,2022,9,Asia Pacific,Innovation,73.8,70.4,94.6,0.14,66227.0,9
+2022-09-01,2022,9,Latin America,Carbon Footprint,77.2,64.8,88.1,0.05,61198.0,5
+2022-09-01,2022,9,Latin America,Water Stewardship,76.2,67.2,86.8,0.15,76240.0,10
+2022-09-01,2022,9,Latin America,Waste Management,86.0,71.2,95.0,0.28,34554.0,9
+2022-09-01,2022,9,Latin America,Supply Chain,71.8,56.0,83.0,0.14,47816.0,9
+2022-09-01,2022,9,Latin America,Employee Wellbeing,88.1,76.1,95.0,0.24,66883.0,7
+2022-09-01,2022,9,Latin America,Community Impact,67.7,66.3,87.7,0.19,76881.0,8
+2022-09-01,2022,9,Latin America,Governance,91.7,82.0,95.0,0.1,76411.0,7
+2022-09-01,2022,9,Latin America,Innovation,76.0,64.8,91.9,0.23,27652.0,5
+2022-09-01,2022,9,Middle East & Africa,Carbon Footprint,69.5,63.5,86.5,0.2,41227.0,10
+2022-09-01,2022,9,Middle East & Africa,Water Stewardship,81.4,68.9,95.0,0.37,25034.0,7
+2022-09-01,2022,9,Middle East & Africa,Waste Management,77.2,69.5,95.0,0.23,35899.0,9
+2022-09-01,2022,9,Middle East & Africa,Supply Chain,68.1,59.3,83.9,0.08,34887.0,7
+2022-09-01,2022,9,Middle East & Africa,Employee Wellbeing,83.5,76.8,95.0,0.26,41672.0,8
+2022-09-01,2022,9,Middle East & Africa,Community Impact,78.7,63.7,86.3,0.23,75651.0,4
+2022-09-01,2022,9,Middle East & Africa,Governance,90.8,78.5,95.0,0.18,45135.0,10
+2022-09-01,2022,9,Middle East & Africa,Innovation,73.6,65.0,87.3,0.06,67856.0,6
+2022-10-01,2022,10,North America,Carbon Footprint,76.6,66.6,84.1,0.01,67217.0,7
+2022-10-01,2022,10,North America,Water Stewardship,77.9,70.2,88.3,0.2,45023.0,7
+2022-10-01,2022,10,North America,Waste Management,77.6,69.8,90.3,0.13,35170.0,9
+2022-10-01,2022,10,North America,Supply Chain,74.4,59.3,84.0,0.25,48800.0,9
+2022-10-01,2022,10,North America,Employee Wellbeing,88.6,75.1,95.0,0.1,70287.0,8
+2022-10-01,2022,10,North America,Community Impact,70.0,66.2,85.0,0.43,50683.0,6
+2022-10-01,2022,10,North America,Governance,85.3,77.8,95.0,0.38,26797.0,3
+2022-10-01,2022,10,North America,Innovation,81.4,67.5,90.0,0.14,76068.0,3
+2022-10-01,2022,10,Europe,Carbon Footprint,80.4,63.6,87.6,0.13,55443.0,4
+2022-10-01,2022,10,Europe,Water Stewardship,84.8,68.8,90.7,0.26,66479.0,7
+2022-10-01,2022,10,Europe,Waste Management,92.3,69.6,94.4,0.06,57958.0,7
+2022-10-01,2022,10,Europe,Supply Chain,80.7,58.7,86.7,0.34,78508.0,11
+2022-10-01,2022,10,Europe,Employee Wellbeing,84.1,78.7,95.0,0.24,55775.0,7
+2022-10-01,2022,10,Europe,Community Impact,79.3,67.8,82.2,0.25,74791.0,9
+2022-10-01,2022,10,Europe,Governance,92.8,80.8,95.0,-0.03,32479.0,6
+2022-10-01,2022,10,Europe,Innovation,84.4,69.8,88.2,0.09,33669.0,7
+2022-10-01,2022,10,Asia Pacific,Carbon Footprint,69.9,63.3,88.7,0.23,70181.0,7
+2022-10-01,2022,10,Asia Pacific,Water Stewardship,77.9,69.2,92.1,0.12,43479.0,6
+2022-10-01,2022,10,Asia Pacific,Waste Management,83.3,70.6,95.0,0.17,76496.0,7
+2022-10-01,2022,10,Asia Pacific,Supply Chain,67.5,58.2,81.3,0.29,75265.0,9
+2022-10-01,2022,10,Asia Pacific,Employee Wellbeing,82.8,74.2,95.0,0.23,83415.0,5
+2022-10-01,2022,10,Asia Pacific,Community Impact,72.9,62.2,86.1,0.11,75234.0,10
+2022-10-01,2022,10,Asia Pacific,Governance,86.6,81.9,95.0,0.24,39356.0,10
+2022-10-01,2022,10,Asia Pacific,Innovation,70.9,69.0,87.4,0.27,59574.0,9
+2022-10-01,2022,10,Latin America,Carbon Footprint,74.5,61.3,87.5,0.3,77583.0,6
+2022-10-01,2022,10,Latin America,Water Stewardship,82.3,70.6,92.0,0.05,35474.0,4
+2022-10-01,2022,10,Latin America,Waste Management,85.1,72.0,95.0,0.23,81231.0,3
+2022-10-01,2022,10,Latin America,Supply Chain,68.8,58.4,81.2,0.22,72199.0,3
+2022-10-01,2022,10,Latin America,Employee Wellbeing,86.3,74.8,95.0,0.22,82824.0,10
+2022-10-01,2022,10,Latin America,Community Impact,76.9,63.4,84.9,0.18,58307.0,6
+2022-10-01,2022,10,Latin America,Governance,88.0,79.5,95.0,0.18,81885.0,10
+2022-10-01,2022,10,Latin America,Innovation,73.1,70.0,85.4,-0.02,81926.0,9
+2022-10-01,2022,10,Middle East & Africa,Carbon Footprint,76.3,61.1,90.8,0.24,30719.0,9
+2022-10-01,2022,10,Middle East & Africa,Water Stewardship,75.5,69.2,90.4,0.32,68807.0,4
+2022-10-01,2022,10,Middle East & Africa,Waste Management,84.8,70.2,95.0,0.11,28578.0,6
+2022-10-01,2022,10,Middle East & Africa,Supply Chain,66.0,60.3,79.4,0.29,43599.0,6
+2022-10-01,2022,10,Middle East & Africa,Employee Wellbeing,84.8,76.3,95.0,0.21,61289.0,5
+2022-10-01,2022,10,Middle East & Africa,Community Impact,72.7,65.5,94.6,0.33,36695.0,7
+2022-10-01,2022,10,Middle East & Africa,Governance,83.4,82.3,95.0,0.18,82410.0,10
+2022-10-01,2022,10,Middle East & Africa,Innovation,71.2,67.9,93.4,0.35,76116.0,5
+2022-11-01,2022,11,North America,Carbon Footprint,73.6,65.8,87.0,0.12,56441.0,10
+2022-11-01,2022,11,North America,Water Stewardship,78.6,70.4,90.8,0.24,30368.0,6
+2022-11-01,2022,11,North America,Waste Management,91.5,70.0,95.0,0.21,79947.0,10
+2022-11-01,2022,11,North America,Supply Chain,65.9,59.3,79.0,0.41,38532.0,3
+2022-11-01,2022,11,North America,Employee Wellbeing,94.8,75.4,95.0,0.26,52993.0,5
+2022-11-01,2022,11,North America,Community Impact,76.7,65.1,88.1,0.14,44756.0,3
+2022-11-01,2022,11,North America,Governance,97.8,78.2,95.0,0.2,59747.0,5
+2022-11-01,2022,11,North America,Innovation,71.8,64.8,86.6,0.04,62130.0,10
+2022-11-01,2022,11,Europe,Carbon Footprint,82.7,65.7,86.5,0.2,65086.0,8
+2022-11-01,2022,11,Europe,Water Stewardship,80.0,75.0,89.1,0.15,82169.0,9
+2022-11-01,2022,11,Europe,Waste Management,94.9,74.0,95.0,0.3,31875.0,9
+2022-11-01,2022,11,Europe,Supply Chain,76.9,60.1,80.5,0.33,33124.0,7
+2022-11-01,2022,11,Europe,Employee Wellbeing,88.1,78.1,95.0,0.25,34423.0,9
+2022-11-01,2022,11,Europe,Community Impact,80.4,64.3,87.4,0.19,61999.0,3
+2022-11-01,2022,11,Europe,Governance,92.4,81.5,95.0,0.07,70813.0,5
+2022-11-01,2022,11,Europe,Innovation,83.4,63.4,91.8,0.2,40804.0,3
+2022-11-01,2022,11,Asia Pacific,Carbon Footprint,65.7,64.3,83.2,0.16,77858.0,5
+2022-11-01,2022,11,Asia Pacific,Water Stewardship,77.2,71.4,89.4,0.19,72485.0,8
+2022-11-01,2022,11,Asia Pacific,Waste Management,74.4,70.3,95.0,0.36,29192.0,4
+2022-11-01,2022,11,Asia Pacific,Supply Chain,68.1,57.8,79.7,0.21,39896.0,11
+2022-11-01,2022,11,Asia Pacific,Employee Wellbeing,79.7,79.2,95.0,0.25,60345.0,6
+2022-11-01,2022,11,Asia Pacific,Community Impact,69.3,67.7,89.8,0.06,69720.0,7
+2022-11-01,2022,11,Asia Pacific,Governance,84.6,83.3,95.0,0.33,36775.0,11
+2022-11-01,2022,11,Asia Pacific,Innovation,81.3,68.4,89.3,0.24,28423.0,5
+2022-11-01,2022,11,Latin America,Carbon Footprint,72.7,64.2,90.6,0.18,40453.0,5
+2022-11-01,2022,11,Latin America,Water Stewardship,81.3,68.4,88.7,0.08,52458.0,10
+2022-11-01,2022,11,Latin America,Waste Management,83.2,70.1,93.3,0.14,40404.0,7
+2022-11-01,2022,11,Latin America,Supply Chain,75.4,60.0,83.6,0.29,41884.0,10
+2022-11-01,2022,11,Latin America,Employee Wellbeing,90.4,78.2,95.0,0.31,70075.0,9
+2022-11-01,2022,11,Latin America,Community Impact,81.5,65.1,88.2,0.28,26890.0,3
+2022-11-01,2022,11,Latin America,Governance,90.3,81.0,95.0,-0.03,40948.0,8
+2022-11-01,2022,11,Latin America,Innovation,75.2,68.6,92.5,0.32,56535.0,5
+2022-11-01,2022,11,Middle East & Africa,Carbon Footprint,72.0,66.0,91.4,0.07,80220.0,7
+2022-11-01,2022,11,Middle East & Africa,Water Stewardship,77.6,73.5,91.8,0.17,33180.0,3
+2022-11-01,2022,11,Middle East & Africa,Waste Management,76.7,72.3,85.9,0.18,45884.0,8
+2022-11-01,2022,11,Middle East & Africa,Supply Chain,62.5,62.2,86.8,0.06,58273.0,9
+2022-11-01,2022,11,Middle East & Africa,Employee Wellbeing,90.2,75.4,95.0,0.17,78194.0,5
+2022-11-01,2022,11,Middle East & Africa,Community Impact,72.4,62.0,88.4,0.17,69982.0,6
+2022-11-01,2022,11,Middle East & Africa,Governance,98.0,78.2,95.0,0.16,56602.0,8
+2022-11-01,2022,11,Middle East & Africa,Innovation,79.7,69.4,90.4,0.18,61603.0,9
+2022-12-01,2022,12,North America,Carbon Footprint,70.8,62.6,85.8,0.32,59521.0,7
+2022-12-01,2022,12,North America,Water Stewardship,77.4,70.3,91.8,0.18,53810.0,11
+2022-12-01,2022,12,North America,Waste Management,87.5,71.0,95.0,0.16,50170.0,6
+2022-12-01,2022,12,North America,Supply Chain,70.7,63.8,81.6,0.18,34998.0,9
+2022-12-01,2022,12,North America,Employee Wellbeing,85.3,77.1,95.0,0.02,69153.0,3
+2022-12-01,2022,12,North America,Community Impact,72.6,66.2,89.9,0.33,45375.0,9
+2022-12-01,2022,12,North America,Governance,87.2,78.6,95.0,0.14,30862.0,6
+2022-12-01,2022,12,North America,Innovation,80.3,65.1,87.0,0.25,47264.0,11
+2022-12-01,2022,12,Europe,Carbon Footprint,82.7,65.6,92.7,0.27,55524.0,9
+2022-12-01,2022,12,Europe,Water Stewardship,90.8,72.8,92.6,0.13,78927.0,11
+2022-12-01,2022,12,Europe,Waste Management,85.1,72.8,91.6,0.15,64128.0,9
+2022-12-01,2022,12,Europe,Supply Chain,65.8,57.3,89.5,0.32,40253.0,6
+2022-12-01,2022,12,Europe,Employee Wellbeing,87.2,78.0,95.0,0.39,52089.0,5
+2022-12-01,2022,12,Europe,Community Impact,76.8,65.3,84.0,0.15,32451.0,11
+2022-12-01,2022,12,Europe,Governance,91.7,81.0,95.0,0.16,68671.0,8
+2022-12-01,2022,12,Europe,Innovation,90.7,67.9,89.7,0.33,65592.0,9
+2022-12-01,2022,12,Asia Pacific,Carbon Footprint,64.9,66.4,88.1,0.11,71122.0,4
+2022-12-01,2022,12,Asia Pacific,Water Stewardship,67.1,69.7,91.0,0.12,39260.0,6
+2022-12-01,2022,12,Asia Pacific,Waste Management,83.4,67.7,95.0,0.12,26311.0,5
+2022-12-01,2022,12,Asia Pacific,Supply Chain,75.1,60.0,76.6,0.25,66695.0,5
+2022-12-01,2022,12,Asia Pacific,Employee Wellbeing,86.7,79.9,95.0,0.28,78626.0,4
+2022-12-01,2022,12,Asia Pacific,Community Impact,72.4,63.8,91.2,0.08,27394.0,7
+2022-12-01,2022,12,Asia Pacific,Governance,90.6,78.1,95.0,0.2,49584.0,9
+2022-12-01,2022,12,Asia Pacific,Innovation,72.6,64.3,87.1,0.24,79941.0,9
+2022-12-01,2022,12,Latin America,Carbon Footprint,82.2,60.7,94.0,0.32,76607.0,4
+2022-12-01,2022,12,Latin America,Water Stewardship,78.5,70.6,95.0,0.14,25750.0,3
+2022-12-01,2022,12,Latin America,Waste Management,82.3,70.5,93.2,0.16,49886.0,4
+2022-12-01,2022,12,Latin America,Supply Chain,71.4,59.2,76.1,0.18,67184.0,7
+2022-12-01,2022,12,Latin America,Employee Wellbeing,88.3,78.9,95.0,0.33,65618.0,4
+2022-12-01,2022,12,Latin America,Community Impact,79.6,66.4,94.5,0.14,63249.0,9
+2022-12-01,2022,12,Latin America,Governance,91.4,83.7,95.0,0.2,34996.0,7
+2022-12-01,2022,12,Latin America,Innovation,81.2,68.2,89.7,0.38,41877.0,7
+2022-12-01,2022,12,Middle East & Africa,Carbon Footprint,80.8,66.0,88.9,0.17,36098.0,8
+2022-12-01,2022,12,Middle East & Africa,Water Stewardship,78.3,68.2,93.8,0.29,66377.0,5
+2022-12-01,2022,12,Middle East & Africa,Waste Management,82.0,73.4,94.3,0.27,42894.0,6
+2022-12-01,2022,12,Middle East & Africa,Supply Chain,63.4,59.0,78.2,0.36,79147.0,7
+2022-12-01,2022,12,Middle East & Africa,Employee Wellbeing,89.3,77.0,95.0,0.49,46790.0,9
+2022-12-01,2022,12,Middle East & Africa,Community Impact,79.9,61.5,92.2,-0.06,74622.0,6
+2022-12-01,2022,12,Middle East & Africa,Governance,90.7,77.0,95.0,0.24,43502.0,11
+2022-12-01,2022,12,Middle East & Africa,Innovation,77.0,66.2,92.6,0.31,71656.0,7
+2023-01-01,2023,1,North America,Carbon Footprint,73.8,63.0,91.1,0.33,36712.0,5
+2023-01-01,2023,1,North America,Water Stewardship,87.5,69.8,93.0,0.17,60229.0,7
+2023-01-01,2023,1,North America,Waste Management,82.7,76.8,93.3,0.17,37503.0,9
+2023-01-01,2023,1,North America,Supply Chain,73.0,59.0,78.4,0.03,77110.0,4
+2023-01-01,2023,1,North America,Employee Wellbeing,82.0,77.4,95.0,0.18,60991.0,4
+2023-01-01,2023,1,North America,Community Impact,74.8,67.0,84.1,0.21,51382.0,4
+2023-01-01,2023,1,North America,Governance,86.0,78.2,95.0,0.14,62755.0,8
+2023-01-01,2023,1,North America,Innovation,80.6,68.6,90.4,0.33,64460.0,7
+2023-01-01,2023,1,Europe,Carbon Footprint,75.6,61.7,82.8,0.08,56990.0,5
+2023-01-01,2023,1,Europe,Water Stewardship,88.8,70.1,88.8,0.15,45811.0,10
+2023-01-01,2023,1,Europe,Waste Management,84.2,69.0,93.7,0.13,82839.0,6
+2023-01-01,2023,1,Europe,Supply Chain,74.3,60.4,84.4,0.08,51069.0,9
+2023-01-01,2023,1,Europe,Employee Wellbeing,94.5,74.7,95.0,0.21,52935.0,9
+2023-01-01,2023,1,Europe,Community Impact,85.6,65.6,93.6,0.02,50331.0,7
+2023-01-01,2023,1,Europe,Governance,95.2,82.0,95.0,0.27,79065.0,5
+2023-01-01,2023,1,Europe,Innovation,92.5,67.2,92.9,0.16,66854.0,9
+2023-01-01,2023,1,Asia Pacific,Carbon Footprint,69.0,65.6,89.5,0.27,75544.0,7
+2023-01-01,2023,1,Asia Pacific,Water Stewardship,73.7,70.0,93.3,0.32,60666.0,4
+2023-01-01,2023,1,Asia Pacific,Waste Management,77.4,72.2,95.0,0.07,61162.0,10
+2023-01-01,2023,1,Asia Pacific,Supply Chain,64.0,59.3,87.5,0.24,42148.0,5
+2023-01-01,2023,1,Asia Pacific,Employee Wellbeing,86.9,78.5,95.0,0.17,33084.0,3
+2023-01-01,2023,1,Asia Pacific,Community Impact,75.6,64.4,85.4,0.36,34435.0,9
+2023-01-01,2023,1,Asia Pacific,Governance,87.9,80.1,95.0,0.22,68693.0,5
+2023-01-01,2023,1,Asia Pacific,Innovation,74.4,63.8,89.3,0.14,54834.0,7
+2023-01-01,2023,1,Latin America,Carbon Footprint,79.5,63.8,89.1,0.2,33864.0,5
+2023-01-01,2023,1,Latin America,Water Stewardship,76.3,71.9,95.0,0.17,57314.0,6
+2023-01-01,2023,1,Latin America,Waste Management,79.8,72.3,90.4,0.21,48015.0,7
+2023-01-01,2023,1,Latin America,Supply Chain,77.9,59.3,82.2,0.25,26472.0,11
+2023-01-01,2023,1,Latin America,Employee Wellbeing,88.2,77.7,95.0,0.19,53531.0,5
+2023-01-01,2023,1,Latin America,Community Impact,82.2,62.0,86.9,-0.01,83409.0,7
+2023-01-01,2023,1,Latin America,Governance,92.9,78.8,95.0,0.08,64553.0,9
+2023-01-01,2023,1,Latin America,Innovation,78.0,67.3,86.9,0.33,68057.0,4
+2023-01-01,2023,1,Middle East & Africa,Carbon Footprint,68.1,63.6,90.7,0.11,39001.0,9
+2023-01-01,2023,1,Middle East & Africa,Water Stewardship,75.8,70.0,95.0,0.17,84357.0,6
+2023-01-01,2023,1,Middle East & Africa,Waste Management,83.9,74.3,92.7,0.05,73669.0,6
+2023-01-01,2023,1,Middle East & Africa,Supply Chain,66.1,62.0,82.2,0.38,57721.0,8
+2023-01-01,2023,1,Middle East & Africa,Employee Wellbeing,79.8,72.2,95.0,0.29,27078.0,4
+2023-01-01,2023,1,Middle East & Africa,Community Impact,76.4,63.6,83.5,0.29,51165.0,9
+2023-01-01,2023,1,Middle East & Africa,Governance,92.7,85.2,95.0,0.18,42687.0,11
+2023-01-01,2023,1,Middle East & Africa,Innovation,81.8,66.2,89.9,0.06,32648.0,6
+2023-02-01,2023,2,North America,Carbon Footprint,76.0,60.7,89.9,0.11,78136.0,4
+2023-02-01,2023,2,North America,Water Stewardship,87.7,72.7,94.6,0.05,36787.0,5
+2023-02-01,2023,2,North America,Waste Management,79.5,75.2,94.5,0.13,84986.0,5
+2023-02-01,2023,2,North America,Supply Chain,67.6,58.9,84.6,0.04,82876.0,8
+2023-02-01,2023,2,North America,Employee Wellbeing,80.7,74.2,95.0,0.34,26993.0,5
+2023-02-01,2023,2,North America,Community Impact,80.4,63.8,92.2,0.17,63024.0,3
+2023-02-01,2023,2,North America,Governance,94.0,78.8,95.0,0.08,76899.0,8
+2023-02-01,2023,2,North America,Innovation,81.6,64.3,88.9,0.32,59300.0,11
+2023-02-01,2023,2,Europe,Carbon Footprint,79.6,65.1,87.9,0.14,41117.0,9
+2023-02-01,2023,2,Europe,Water Stewardship,90.9,68.2,94.6,0.18,33200.0,3
+2023-02-01,2023,2,Europe,Waste Management,85.7,74.7,95.0,0.19,60395.0,8
+2023-02-01,2023,2,Europe,Supply Chain,72.4,55.5,83.3,0.34,84212.0,10
+2023-02-01,2023,2,Europe,Employee Wellbeing,95.0,80.1,95.0,0.19,26110.0,3
+2023-02-01,2023,2,Europe,Community Impact,80.2,65.5,90.3,0.36,59300.0,8
+2023-02-01,2023,2,Europe,Governance,98.0,79.3,95.0,0.27,76837.0,3
+2023-02-01,2023,2,Europe,Innovation,83.1,65.2,88.6,0.29,57883.0,3
+2023-02-01,2023,2,Asia Pacific,Carbon Footprint,71.3,62.2,86.5,0.15,38162.0,5
+2023-02-01,2023,2,Asia Pacific,Water Stewardship,77.2,71.2,95.0,0.06,66002.0,11
+2023-02-01,2023,2,Asia Pacific,Waste Management,86.0,72.6,91.6,0.16,50790.0,6
+2023-02-01,2023,2,Asia Pacific,Supply Chain,74.5,58.6,84.6,0.19,83965.0,7
+2023-02-01,2023,2,Asia Pacific,Employee Wellbeing,76.3,79.6,95.0,0.15,34080.0,9
+2023-02-01,2023,2,Asia Pacific,Community Impact,73.4,64.7,90.1,0.18,84194.0,9
+2023-02-01,2023,2,Asia Pacific,Governance,83.5,80.7,95.0,0.02,29060.0,8
+2023-02-01,2023,2,Asia Pacific,Innovation,76.0,65.3,86.4,0.32,81920.0,10
+2023-02-01,2023,2,Latin America,Carbon Footprint,79.0,64.0,88.3,0.28,34178.0,7
+2023-02-01,2023,2,Latin America,Water Stewardship,82.8,72.0,94.8,0.21,25993.0,3
+2023-02-01,2023,2,Latin America,Waste Management,85.9,71.6,95.0,0.33,64420.0,5
+2023-02-01,2023,2,Latin America,Supply Chain,80.6,61.1,86.0,0.14,44305.0,3
+2023-02-01,2023,2,Latin America,Employee Wellbeing,87.0,74.4,95.0,0.28,30388.0,4
+2023-02-01,2023,2,Latin America,Community Impact,71.4,65.4,88.4,0.17,72061.0,10
+2023-02-01,2023,2,Latin America,Governance,90.1,82.1,95.0,0.36,26402.0,6
+2023-02-01,2023,2,Latin America,Innovation,77.8,69.4,89.6,0.19,50872.0,8
+2023-02-01,2023,2,Middle East & Africa,Carbon Footprint,75.0,63.9,86.2,0.1,41503.0,4
+2023-02-01,2023,2,Middle East & Africa,Water Stewardship,81.6,71.7,87.7,0.08,74665.0,3
+2023-02-01,2023,2,Middle East & Africa,Waste Management,83.8,73.3,90.6,0.29,81087.0,7
+2023-02-01,2023,2,Middle East & Africa,Supply Chain,66.2,57.2,82.1,0.17,26928.0,5
+2023-02-01,2023,2,Middle East & Africa,Employee Wellbeing,85.3,76.2,95.0,0.03,44336.0,4
+2023-02-01,2023,2,Middle East & Africa,Community Impact,74.7,66.4,90.6,0.31,42094.0,8
+2023-02-01,2023,2,Middle East & Africa,Governance,82.9,82.3,95.0,0.26,46853.0,3
+2023-02-01,2023,2,Middle East & Africa,Innovation,73.3,66.4,88.8,0.1,37457.0,11
+2023-03-01,2023,3,North America,Carbon Footprint,75.8,68.3,85.5,0.33,27730.0,10
+2023-03-01,2023,3,North America,Water Stewardship,77.2,66.9,95.0,0.18,43496.0,11
+2023-03-01,2023,3,North America,Waste Management,87.9,74.9,94.2,0.33,40520.0,5
+2023-03-01,2023,3,North America,Supply Chain,75.1,56.9,83.0,0.32,49207.0,10
+2023-03-01,2023,3,North America,Employee Wellbeing,91.8,74.8,95.0,0.22,34303.0,8
+2023-03-01,2023,3,North America,Community Impact,83.2,61.2,88.2,0.22,60451.0,6
+2023-03-01,2023,3,North America,Governance,87.8,80.2,95.0,0.05,65077.0,6
+2023-03-01,2023,3,North America,Innovation,77.5,61.6,89.1,0.2,44149.0,7
+2023-03-01,2023,3,Europe,Carbon Footprint,79.7,62.3,87.7,0.25,71935.0,8
+2023-03-01,2023,3,Europe,Water Stewardship,94.5,67.7,91.9,0.27,25068.0,11
+2023-03-01,2023,3,Europe,Waste Management,87.3,66.6,94.4,0.32,57846.0,4
+2023-03-01,2023,3,Europe,Supply Chain,68.2,61.7,83.7,0.14,79492.0,4
+2023-03-01,2023,3,Europe,Employee Wellbeing,91.1,74.0,95.0,0.12,45289.0,11
+2023-03-01,2023,3,Europe,Community Impact,82.8,63.1,94.6,0.36,57240.0,7
+2023-03-01,2023,3,Europe,Governance,93.2,78.2,95.0,0.19,41317.0,10
+2023-03-01,2023,3,Europe,Innovation,80.4,68.7,84.1,0.28,36441.0,10
+2023-03-01,2023,3,Asia Pacific,Carbon Footprint,71.9,64.4,87.7,0.27,58943.0,7
+2023-03-01,2023,3,Asia Pacific,Water Stewardship,77.0,69.7,95.0,0.02,55567.0,9
+2023-03-01,2023,3,Asia Pacific,Waste Management,77.7,69.8,91.2,0.17,79388.0,9
+2023-03-01,2023,3,Asia Pacific,Supply Chain,68.8,59.0,87.0,0.47,84387.0,8
+2023-03-01,2023,3,Asia Pacific,Employee Wellbeing,90.8,76.3,95.0,0.26,51837.0,9
+2023-03-01,2023,3,Asia Pacific,Community Impact,68.9,67.3,89.2,0.09,65625.0,8
+2023-03-01,2023,3,Asia Pacific,Governance,85.0,78.2,95.0,0.27,78194.0,3
+2023-03-01,2023,3,Asia Pacific,Innovation,74.5,69.3,90.8,0.3,39414.0,6
+2023-03-01,2023,3,Latin America,Carbon Footprint,74.4,61.3,88.2,-0.0,73887.0,11
+2023-03-01,2023,3,Latin America,Water Stewardship,80.0,69.4,89.9,0.17,75054.0,7
+2023-03-01,2023,3,Latin America,Waste Management,79.6,72.7,95.0,0.2,27083.0,3
+2023-03-01,2023,3,Latin America,Supply Chain,69.8,57.7,88.7,0.21,75522.0,3
+2023-03-01,2023,3,Latin America,Employee Wellbeing,87.5,81.2,95.0,0.45,52042.0,4
+2023-03-01,2023,3,Latin America,Community Impact,71.3,64.8,87.6,0.15,26497.0,8
+2023-03-01,2023,3,Latin America,Governance,91.3,78.5,95.0,0.09,34535.0,8
+2023-03-01,2023,3,Latin America,Innovation,75.4,65.5,89.6,0.22,47593.0,4
+2023-03-01,2023,3,Middle East & Africa,Carbon Footprint,69.8,61.9,90.4,0.06,69556.0,7
+2023-03-01,2023,3,Middle East & Africa,Water Stewardship,84.6,70.9,93.0,0.27,71920.0,8
+2023-03-01,2023,3,Middle East & Africa,Waste Management,81.3,74.0,94.0,0.39,76422.0,11
+2023-03-01,2023,3,Middle East & Africa,Supply Chain,69.1,56.8,83.2,0.28,48707.0,9
+2023-03-01,2023,3,Middle East & Africa,Employee Wellbeing,79.8,78.0,95.0,0.06,36296.0,4
+2023-03-01,2023,3,Middle East & Africa,Community Impact,78.1,64.2,86.7,0.21,61122.0,6
+2023-03-01,2023,3,Middle East & Africa,Governance,93.5,78.6,95.0,0.1,36558.0,9
+2023-03-01,2023,3,Middle East & Africa,Innovation,75.8,63.6,91.6,0.26,76327.0,4
+2023-04-01,2023,4,North America,Carbon Footprint,78.2,64.3,89.3,0.08,68044.0,11
+2023-04-01,2023,4,North America,Water Stewardship,85.8,70.1,92.7,0.14,51371.0,7
+2023-04-01,2023,4,North America,Waste Management,85.0,72.0,94.4,0.17,83118.0,7
+2023-04-01,2023,4,North America,Supply Chain,67.8,60.3,84.1,0.1,70817.0,10
+2023-04-01,2023,4,North America,Employee Wellbeing,84.8,74.6,95.0,0.21,73403.0,7
+2023-04-01,2023,4,North America,Community Impact,74.5,63.2,90.0,0.1,81809.0,3
+2023-04-01,2023,4,North America,Governance,87.8,78.4,94.0,0.26,68612.0,9
+2023-04-01,2023,4,North America,Innovation,85.5,70.0,89.0,0.31,25741.0,4
+2023-04-01,2023,4,Europe,Carbon Footprint,79.6,63.1,84.7,0.17,70302.0,7
+2023-04-01,2023,4,Europe,Water Stewardship,88.9,68.5,89.9,0.26,83973.0,4
+2023-04-01,2023,4,Europe,Waste Management,91.6,74.5,94.2,0.25,41629.0,8
+2023-04-01,2023,4,Europe,Supply Chain,77.1,61.8,84.5,0.19,37129.0,11
+2023-04-01,2023,4,Europe,Employee Wellbeing,98.0,80.9,95.0,0.18,52829.0,11
+2023-04-01,2023,4,Europe,Community Impact,86.1,62.5,87.3,0.27,43843.0,8
+2023-04-01,2023,4,Europe,Governance,92.2,76.6,95.0,0.07,65765.0,11
+2023-04-01,2023,4,Europe,Innovation,82.4,67.1,93.6,0.1,58599.0,6
+2023-04-01,2023,4,Asia Pacific,Carbon Footprint,70.4,62.0,88.7,0.0,49358.0,7
+2023-04-01,2023,4,Asia Pacific,Water Stewardship,79.0,73.1,91.3,0.12,59068.0,9
+2023-04-01,2023,4,Asia Pacific,Waste Management,89.5,72.3,95.0,0.34,83631.0,5
+2023-04-01,2023,4,Asia Pacific,Supply Chain,67.4,60.5,75.7,0.37,47373.0,11
+2023-04-01,2023,4,Asia Pacific,Employee Wellbeing,88.6,74.6,95.0,0.26,83389.0,7
+2023-04-01,2023,4,Asia Pacific,Community Impact,74.0,66.3,84.0,0.33,71235.0,3
+2023-04-01,2023,4,Asia Pacific,Governance,86.1,80.1,95.0,0.17,79695.0,8
+2023-04-01,2023,4,Asia Pacific,Innovation,78.6,67.9,88.2,0.24,62052.0,11
+2023-04-01,2023,4,Latin America,Carbon Footprint,78.1,61.4,80.9,0.32,82278.0,6
+2023-04-01,2023,4,Latin America,Water Stewardship,78.5,72.5,94.1,0.18,41413.0,7
+2023-04-01,2023,4,Latin America,Waste Management,85.5,75.0,95.0,0.22,82787.0,10
+2023-04-01,2023,4,Latin America,Supply Chain,70.7,62.2,86.7,0.16,70578.0,11
+2023-04-01,2023,4,Latin America,Employee Wellbeing,90.6,75.5,95.0,0.26,26473.0,10
+2023-04-01,2023,4,Latin America,Community Impact,81.8,62.8,84.8,0.41,69762.0,11
+2023-04-01,2023,4,Latin America,Governance,96.6,78.4,95.0,0.15,51236.0,7
+2023-04-01,2023,4,Latin America,Innovation,78.9,70.1,94.6,0.33,63795.0,10
+2023-04-01,2023,4,Middle East & Africa,Carbon Footprint,78.6,60.0,90.0,0.09,29435.0,10
+2023-04-01,2023,4,Middle East & Africa,Water Stewardship,76.3,71.4,95.0,0.14,71400.0,10
+2023-04-01,2023,4,Middle East & Africa,Waste Management,80.7,72.3,95.0,0.17,35119.0,11
+2023-04-01,2023,4,Middle East & Africa,Supply Chain,69.0,60.3,82.5,0.28,52148.0,10
+2023-04-01,2023,4,Middle East & Africa,Employee Wellbeing,83.6,80.9,95.0,0.03,59751.0,8
+2023-04-01,2023,4,Middle East & Africa,Community Impact,81.4,67.9,95.0,0.1,42318.0,4
+2023-04-01,2023,4,Middle East & Africa,Governance,87.9,80.2,95.0,0.08,47277.0,4
+2023-04-01,2023,4,Middle East & Africa,Innovation,81.6,65.8,92.4,0.07,30895.0,3
+2023-05-01,2023,5,North America,Carbon Footprint,62.4,63.7,85.2,0.11,26840.0,10
+2023-05-01,2023,5,North America,Water Stewardship,77.2,68.6,90.0,0.11,40778.0,3
+2023-05-01,2023,5,North America,Waste Management,77.8,67.7,88.4,0.45,71748.0,7
+2023-05-01,2023,5,North America,Supply Chain,70.5,59.7,83.9,0.26,49282.0,4
+2023-05-01,2023,5,North America,Employee Wellbeing,89.4,73.1,95.0,0.31,51838.0,6
+2023-05-01,2023,5,North America,Community Impact,76.6,66.7,92.6,0.14,54841.0,8
+2023-05-01,2023,5,North America,Governance,90.3,81.1,95.0,0.23,56342.0,9
+2023-05-01,2023,5,North America,Innovation,74.2,65.3,94.4,0.27,48828.0,6
+2023-05-01,2023,5,Europe,Carbon Footprint,80.3,65.2,85.0,0.03,64169.0,6
+2023-05-01,2023,5,Europe,Water Stewardship,88.2,72.0,95.0,0.14,43185.0,3
+2023-05-01,2023,5,Europe,Waste Management,89.9,74.2,95.0,0.28,64216.0,8
+2023-05-01,2023,5,Europe,Supply Chain,75.4,62.4,84.7,0.26,36970.0,7
+2023-05-01,2023,5,Europe,Employee Wellbeing,94.6,77.7,95.0,0.19,40637.0,5
+2023-05-01,2023,5,Europe,Community Impact,79.3,62.3,86.2,0.27,59924.0,8
+2023-05-01,2023,5,Europe,Governance,94.6,82.4,95.0,0.18,74977.0,8
+2023-05-01,2023,5,Europe,Innovation,81.2,66.0,88.8,0.14,45273.0,9
+2023-05-01,2023,5,Asia Pacific,Carbon Footprint,69.8,64.6,87.7,0.16,39177.0,3
+2023-05-01,2023,5,Asia Pacific,Water Stewardship,84.9,68.7,92.5,0.01,36560.0,6
+2023-05-01,2023,5,Asia Pacific,Waste Management,76.5,68.1,92.3,0.19,30602.0,5
+2023-05-01,2023,5,Asia Pacific,Supply Chain,66.9,59.0,82.9,0.19,37805.0,11
+2023-05-01,2023,5,Asia Pacific,Employee Wellbeing,83.5,78.6,95.0,0.2,56446.0,10
+2023-05-01,2023,5,Asia Pacific,Community Impact,72.5,64.9,88.5,0.11,56817.0,5
+2023-05-01,2023,5,Asia Pacific,Governance,91.5,78.0,95.0,0.04,67738.0,6
+2023-05-01,2023,5,Asia Pacific,Innovation,76.6,66.4,90.8,0.32,62769.0,6
+2023-05-01,2023,5,Latin America,Carbon Footprint,74.2,65.4,85.2,0.37,35717.0,7
+2023-05-01,2023,5,Latin America,Water Stewardship,84.1,72.6,95.0,0.21,43788.0,10
+2023-05-01,2023,5,Latin America,Waste Management,86.6,72.7,86.3,0.1,73327.0,10
+2023-05-01,2023,5,Latin America,Supply Chain,72.1,60.2,86.6,0.24,56911.0,7
+2023-05-01,2023,5,Latin America,Employee Wellbeing,81.6,78.9,95.0,0.34,77977.0,5
+2023-05-01,2023,5,Latin America,Community Impact,69.2,66.5,89.2,0.26,59389.0,11
+2023-05-01,2023,5,Latin America,Governance,91.3,78.4,95.0,0.32,80604.0,4
+2023-05-01,2023,5,Latin America,Innovation,75.8,63.3,87.0,0.26,25592.0,11
+2023-05-01,2023,5,Middle East & Africa,Carbon Footprint,73.0,65.2,81.0,-0.1,77154.0,8
+2023-05-01,2023,5,Middle East & Africa,Water Stewardship,73.3,71.1,95.0,0.2,60017.0,11
+2023-05-01,2023,5,Middle East & Africa,Waste Management,81.1,73.6,95.0,0.14,31664.0,7
+2023-05-01,2023,5,Middle East & Africa,Supply Chain,70.8,59.7,86.5,0.34,70604.0,9
+2023-05-01,2023,5,Middle East & Africa,Employee Wellbeing,84.4,75.1,95.0,0.2,51959.0,7
+2023-05-01,2023,5,Middle East & Africa,Community Impact,77.7,66.2,85.7,0.1,30868.0,10
+2023-05-01,2023,5,Middle East & Africa,Governance,88.8,76.7,95.0,0.47,83985.0,9
+2023-05-01,2023,5,Middle East & Africa,Innovation,75.8,65.7,86.1,0.09,72157.0,6
+2023-06-01,2023,6,North America,Carbon Footprint,88.2,62.6,84.3,0.08,71800.0,10
+2023-06-01,2023,6,North America,Water Stewardship,81.8,69.1,95.0,0.28,66631.0,10
+2023-06-01,2023,6,North America,Waste Management,82.6,70.6,95.0,0.24,40886.0,8
+2023-06-01,2023,6,North America,Supply Chain,72.7,59.4,80.4,0.27,62426.0,7
+2023-06-01,2023,6,North America,Employee Wellbeing,90.3,76.4,95.0,0.08,59968.0,10
+2023-06-01,2023,6,North America,Community Impact,77.7,62.9,90.3,0.11,61113.0,3
+2023-06-01,2023,6,North America,Governance,89.1,78.4,95.0,0.3,79810.0,3
+2023-06-01,2023,6,North America,Innovation,82.0,68.4,91.5,0.15,46333.0,8
+2023-06-01,2023,6,Europe,Carbon Footprint,82.1,65.7,86.7,0.13,29050.0,7
+2023-06-01,2023,6,Europe,Water Stewardship,88.4,71.9,94.3,0.24,83817.0,4
+2023-06-01,2023,6,Europe,Waste Management,91.4,73.8,92.7,0.05,35605.0,11
+2023-06-01,2023,6,Europe,Supply Chain,77.5,61.8,78.3,0.21,72376.0,3
+2023-06-01,2023,6,Europe,Employee Wellbeing,97.9,76.8,95.0,0.33,29242.0,5
+2023-06-01,2023,6,Europe,Community Impact,80.0,65.3,84.5,0.06,54923.0,6
+2023-06-01,2023,6,Europe,Governance,98.0,76.0,95.0,0.18,74951.0,7
+2023-06-01,2023,6,Europe,Innovation,79.8,63.1,88.4,0.13,55931.0,6
+2023-06-01,2023,6,Asia Pacific,Carbon Footprint,67.6,63.8,85.9,0.09,47731.0,10
+2023-06-01,2023,6,Asia Pacific,Water Stewardship,78.6,71.2,93.9,0.21,40072.0,5
+2023-06-01,2023,6,Asia Pacific,Waste Management,81.0,70.1,95.0,0.19,37306.0,9
+2023-06-01,2023,6,Asia Pacific,Supply Chain,63.8,63.4,82.6,0.29,36906.0,11
+2023-06-01,2023,6,Asia Pacific,Employee Wellbeing,79.7,76.4,95.0,0.04,55722.0,8
+2023-06-01,2023,6,Asia Pacific,Community Impact,70.1,65.7,91.3,0.12,64022.0,3
+2023-06-01,2023,6,Asia Pacific,Governance,90.2,79.6,95.0,0.29,29372.0,8
+2023-06-01,2023,6,Asia Pacific,Innovation,75.3,70.5,91.0,0.32,67552.0,3
+2023-06-01,2023,6,Latin America,Carbon Footprint,79.6,67.0,90.7,0.09,63735.0,8
+2023-06-01,2023,6,Latin America,Water Stewardship,80.1,68.2,92.9,0.22,28566.0,11
+2023-06-01,2023,6,Latin America,Waste Management,83.0,69.6,95.0,0.11,60903.0,3
+2023-06-01,2023,6,Latin America,Supply Chain,66.5,56.9,81.7,0.28,44743.0,7
+2023-06-01,2023,6,Latin America,Employee Wellbeing,94.9,78.6,95.0,0.22,26478.0,10
+2023-06-01,2023,6,Latin America,Community Impact,80.1,69.7,90.6,0.23,57717.0,4
+2023-06-01,2023,6,Latin America,Governance,95.5,79.8,95.0,0.26,67849.0,5
+2023-06-01,2023,6,Latin America,Innovation,77.6,62.8,88.6,0.19,71441.0,10
+2023-06-01,2023,6,Middle East & Africa,Carbon Footprint,69.2,64.2,85.4,0.16,35170.0,10
+2023-06-01,2023,6,Middle East & Africa,Water Stewardship,76.4,69.9,95.0,0.39,56539.0,4
+2023-06-01,2023,6,Middle East & Africa,Waste Management,81.1,72.3,95.0,0.19,71107.0,6
+2023-06-01,2023,6,Middle East & Africa,Supply Chain,65.5,60.4,78.5,0.1,39318.0,10
+2023-06-01,2023,6,Middle East & Africa,Employee Wellbeing,79.9,75.6,95.0,0.07,40591.0,8
+2023-06-01,2023,6,Middle East & Africa,Community Impact,73.0,65.3,87.0,0.16,29220.0,4
+2023-06-01,2023,6,Middle East & Africa,Governance,87.5,77.6,95.0,0.27,65202.0,3
+2023-06-01,2023,6,Middle East & Africa,Innovation,81.9,68.2,86.2,0.24,44824.0,10
+2023-07-01,2023,7,North America,Carbon Footprint,69.2,63.1,87.6,0.26,73343.0,3
+2023-07-01,2023,7,North America,Water Stewardship,79.5,65.9,89.2,0.24,54877.0,9
+2023-07-01,2023,7,North America,Waste Management,88.8,69.9,93.1,-0.03,33058.0,8
+2023-07-01,2023,7,North America,Supply Chain,74.0,59.0,89.1,0.38,79749.0,4
+2023-07-01,2023,7,North America,Employee Wellbeing,79.4,78.2,95.0,0.26,39239.0,3
+2023-07-01,2023,7,North America,Community Impact,71.2,67.9,91.1,0.06,74721.0,4
+2023-07-01,2023,7,North America,Governance,94.5,80.0,95.0,0.19,39378.0,8
+2023-07-01,2023,7,North America,Innovation,78.5,69.3,94.2,0.22,73695.0,7
+2023-07-01,2023,7,Europe,Carbon Footprint,80.2,66.3,86.7,0.2,33280.0,10
+2023-07-01,2023,7,Europe,Water Stewardship,82.2,67.5,95.0,0.37,29931.0,9
+2023-07-01,2023,7,Europe,Waste Management,92.7,72.7,87.8,0.3,47280.0,3
+2023-07-01,2023,7,Europe,Supply Chain,71.2,60.0,81.7,0.14,79523.0,7
+2023-07-01,2023,7,Europe,Employee Wellbeing,93.7,79.8,95.0,0.35,26880.0,7
+2023-07-01,2023,7,Europe,Community Impact,81.5,67.3,91.2,-0.06,47846.0,7
+2023-07-01,2023,7,Europe,Governance,96.5,78.9,95.0,0.28,54603.0,3
+2023-07-01,2023,7,Europe,Innovation,79.9,67.1,92.9,0.11,57379.0,11
+2023-07-01,2023,7,Asia Pacific,Carbon Footprint,72.8,63.3,89.3,0.27,79691.0,5
+2023-07-01,2023,7,Asia Pacific,Water Stewardship,81.6,71.1,92.1,0.32,62559.0,7
+2023-07-01,2023,7,Asia Pacific,Waste Management,74.3,73.4,95.0,0.3,36757.0,6
+2023-07-01,2023,7,Asia Pacific,Supply Chain,74.7,59.0,82.1,0.41,64152.0,5
+2023-07-01,2023,7,Asia Pacific,Employee Wellbeing,82.6,75.4,95.0,0.27,38496.0,3
+2023-07-01,2023,7,Asia Pacific,Community Impact,77.4,67.2,85.9,0.09,78883.0,4
+2023-07-01,2023,7,Asia Pacific,Governance,87.2,80.7,95.0,-0.16,53325.0,5
+2023-07-01,2023,7,Asia Pacific,Innovation,79.0,65.2,92.2,0.05,75798.0,10
+2023-07-01,2023,7,Latin America,Carbon Footprint,78.5,62.0,82.4,0.27,48487.0,5
+2023-07-01,2023,7,Latin America,Water Stewardship,88.2,70.3,94.1,0.26,54007.0,11
+2023-07-01,2023,7,Latin America,Waste Management,81.0,77.4,94.1,0.23,34473.0,10
+2023-07-01,2023,7,Latin America,Supply Chain,70.9,63.0,80.8,0.24,83381.0,10
+2023-07-01,2023,7,Latin America,Employee Wellbeing,93.2,76.6,95.0,0.3,81813.0,11
+2023-07-01,2023,7,Latin America,Community Impact,77.0,60.8,92.5,0.1,36041.0,7
+2023-07-01,2023,7,Latin America,Governance,90.5,79.1,95.0,0.11,81991.0,4
+2023-07-01,2023,7,Latin America,Innovation,87.5,67.0,92.6,0.2,34978.0,3
+2023-07-01,2023,7,Middle East & Africa,Carbon Footprint,78.6,59.8,84.9,0.15,73290.0,4
+2023-07-01,2023,7,Middle East & Africa,Water Stewardship,82.9,69.9,92.9,0.44,46615.0,7
+2023-07-01,2023,7,Middle East & Africa,Waste Management,85.7,73.1,95.0,0.26,30305.0,3
+2023-07-01,2023,7,Middle East & Africa,Supply Chain,67.0,61.8,83.3,0.3,53711.0,9
+2023-07-01,2023,7,Middle East & Africa,Employee Wellbeing,91.1,79.1,95.0,0.4,80589.0,11
+2023-07-01,2023,7,Middle East & Africa,Community Impact,79.8,63.8,88.8,0.29,58335.0,9
+2023-07-01,2023,7,Middle East & Africa,Governance,91.7,82.5,95.0,0.1,42894.0,10
+2023-07-01,2023,7,Middle East & Africa,Innovation,88.5,67.5,92.1,0.14,80806.0,10
+2023-08-01,2023,8,North America,Carbon Footprint,80.8,63.9,86.6,0.19,51293.0,4
+2023-08-01,2023,8,North America,Water Stewardship,84.0,66.9,95.0,0.17,38537.0,11
+2023-08-01,2023,8,North America,Waste Management,84.8,67.5,95.0,0.1,82677.0,9
+2023-08-01,2023,8,North America,Supply Chain,70.4,56.9,80.4,0.18,78151.0,6
+2023-08-01,2023,8,North America,Employee Wellbeing,81.3,76.9,95.0,0.15,68842.0,5
+2023-08-01,2023,8,North America,Community Impact,85.0,61.6,85.2,0.1,74348.0,6
+2023-08-01,2023,8,North America,Governance,93.9,79.7,95.0,0.17,71505.0,9
+2023-08-01,2023,8,North America,Innovation,81.2,62.6,90.0,0.18,60424.0,10
+2023-08-01,2023,8,Europe,Carbon Footprint,83.0,63.0,89.8,0.32,48663.0,6
+2023-08-01,2023,8,Europe,Water Stewardship,89.8,69.7,95.0,0.22,38031.0,9
+2023-08-01,2023,8,Europe,Waste Management,90.2,72.7,92.9,0.3,56317.0,5
+2023-08-01,2023,8,Europe,Supply Chain,71.6,58.0,86.0,0.09,64016.0,4
+2023-08-01,2023,8,Europe,Employee Wellbeing,89.3,79.0,95.0,0.12,46772.0,8
+2023-08-01,2023,8,Europe,Community Impact,83.7,62.5,86.4,0.15,48192.0,10
+2023-08-01,2023,8,Europe,Governance,96.5,79.1,95.0,0.1,83917.0,4
+2023-08-01,2023,8,Europe,Innovation,85.0,66.9,92.3,0.18,79716.0,6
+2023-08-01,2023,8,Asia Pacific,Carbon Footprint,71.3,61.1,89.5,0.13,27988.0,7
+2023-08-01,2023,8,Asia Pacific,Water Stewardship,74.9,66.2,94.0,-0.14,64385.0,9
+2023-08-01,2023,8,Asia Pacific,Waste Management,77.2,75.2,95.0,0.17,64010.0,11
+2023-08-01,2023,8,Asia Pacific,Supply Chain,74.8,57.2,82.3,0.29,53665.0,11
+2023-08-01,2023,8,Asia Pacific,Employee Wellbeing,91.4,77.5,95.0,0.27,31551.0,10
+2023-08-01,2023,8,Asia Pacific,Community Impact,73.5,65.1,85.6,0.49,75830.0,5
+2023-08-01,2023,8,Asia Pacific,Governance,96.4,77.3,95.0,0.2,82639.0,3
+2023-08-01,2023,8,Asia Pacific,Innovation,83.0,65.2,87.7,0.2,36757.0,4
+2023-08-01,2023,8,Latin America,Carbon Footprint,84.9,64.3,84.6,0.16,72916.0,10
+2023-08-01,2023,8,Latin America,Water Stewardship,80.5,66.7,92.8,0.19,71020.0,6
+2023-08-01,2023,8,Latin America,Waste Management,87.1,72.3,93.9,0.37,47013.0,4
+2023-08-01,2023,8,Latin America,Supply Chain,71.0,60.6,85.0,0.07,76680.0,11
+2023-08-01,2023,8,Latin America,Employee Wellbeing,87.1,77.9,95.0,0.16,31933.0,8
+2023-08-01,2023,8,Latin America,Community Impact,78.9,66.2,88.1,0.34,53519.0,11
+2023-08-01,2023,8,Latin America,Governance,91.5,83.5,95.0,0.17,74259.0,4
+2023-08-01,2023,8,Latin America,Innovation,88.8,67.5,89.0,0.22,25641.0,9
+2023-08-01,2023,8,Middle East & Africa,Carbon Footprint,69.5,63.6,92.1,0.27,34301.0,11
+2023-08-01,2023,8,Middle East & Africa,Water Stewardship,85.7,72.0,90.9,0.39,57441.0,5
+2023-08-01,2023,8,Middle East & Africa,Waste Management,74.6,68.6,95.0,0.13,49580.0,7
+2023-08-01,2023,8,Middle East & Africa,Supply Chain,70.4,57.6,82.0,0.35,58464.0,9
+2023-08-01,2023,8,Middle East & Africa,Employee Wellbeing,81.4,74.6,95.0,0.12,67418.0,8
+2023-08-01,2023,8,Middle East & Africa,Community Impact,71.9,63.2,84.5,0.17,66448.0,11
+2023-08-01,2023,8,Middle East & Africa,Governance,94.4,80.8,95.0,0.2,38244.0,11
+2023-08-01,2023,8,Middle East & Africa,Innovation,75.1,64.6,90.4,0.15,58798.0,11
+2023-09-01,2023,9,North America,Carbon Footprint,76.1,66.0,82.8,0.38,32948.0,10
+2023-09-01,2023,9,North America,Water Stewardship,73.3,72.9,93.6,0.15,48980.0,5
+2023-09-01,2023,9,North America,Waste Management,83.3,72.4,95.0,0.21,75944.0,10
+2023-09-01,2023,9,North America,Supply Chain,70.7,59.6,82.7,0.26,43916.0,4
+2023-09-01,2023,9,North America,Employee Wellbeing,90.4,74.8,95.0,0.15,71479.0,8
+2023-09-01,2023,9,North America,Community Impact,74.8,66.5,88.6,0.16,74688.0,7
+2023-09-01,2023,9,North America,Governance,91.3,82.6,95.0,0.06,37957.0,7
+2023-09-01,2023,9,North America,Innovation,77.7,66.3,95.0,0.36,75698.0,7
+2023-09-01,2023,9,Europe,Carbon Footprint,79.4,61.1,88.6,0.24,41392.0,5
+2023-09-01,2023,9,Europe,Water Stewardship,90.8,66.6,94.7,0.17,83680.0,9
+2023-09-01,2023,9,Europe,Waste Management,91.2,74.0,92.4,0.09,54318.0,10
+2023-09-01,2023,9,Europe,Supply Chain,78.3,61.8,80.1,0.29,69464.0,8
+2023-09-01,2023,9,Europe,Employee Wellbeing,98.0,77.1,95.0,0.2,33477.0,7
+2023-09-01,2023,9,Europe,Community Impact,81.1,61.4,87.6,0.33,58671.0,11
+2023-09-01,2023,9,Europe,Governance,96.2,78.9,95.0,0.28,48537.0,6
+2023-09-01,2023,9,Europe,Innovation,87.6,67.4,90.1,0.22,55304.0,9
+2023-09-01,2023,9,Asia Pacific,Carbon Footprint,74.2,68.1,86.8,0.37,84788.0,3
+2023-09-01,2023,9,Asia Pacific,Water Stewardship,70.6,67.7,91.0,0.26,51045.0,9
+2023-09-01,2023,9,Asia Pacific,Waste Management,84.9,76.5,95.0,0.16,63786.0,10
+2023-09-01,2023,9,Asia Pacific,Supply Chain,66.4,60.9,81.6,0.21,48242.0,6
+2023-09-01,2023,9,Asia Pacific,Employee Wellbeing,84.8,77.6,95.0,0.25,81920.0,7
+2023-09-01,2023,9,Asia Pacific,Community Impact,77.8,67.7,89.8,0.17,62635.0,7
+2023-09-01,2023,9,Asia Pacific,Governance,92.9,80.1,95.0,0.14,75498.0,3
+2023-09-01,2023,9,Asia Pacific,Innovation,71.2,70.4,91.4,0.07,74864.0,7
+2023-09-01,2023,9,Latin America,Carbon Footprint,75.2,62.4,88.1,0.27,34059.0,5
+2023-09-01,2023,9,Latin America,Water Stewardship,84.8,67.8,91.4,0.19,42478.0,10
+2023-09-01,2023,9,Latin America,Waste Management,87.2,74.3,93.5,0.52,81044.0,3
+2023-09-01,2023,9,Latin America,Supply Chain,78.7,60.5,82.5,0.14,83649.0,4
+2023-09-01,2023,9,Latin America,Employee Wellbeing,96.6,77.4,95.0,0.03,28796.0,4
+2023-09-01,2023,9,Latin America,Community Impact,78.4,65.3,85.2,0.05,51425.0,6
+2023-09-01,2023,9,Latin America,Governance,91.5,81.4,95.0,0.31,71580.0,10
+2023-09-01,2023,9,Latin America,Innovation,83.9,64.2,88.4,0.44,53174.0,5
+2023-09-01,2023,9,Middle East & Africa,Carbon Footprint,76.9,60.2,84.7,0.4,28708.0,8
+2023-09-01,2023,9,Middle East & Africa,Water Stewardship,81.8,68.8,95.0,0.1,33310.0,4
+2023-09-01,2023,9,Middle East & Africa,Waste Management,80.9,69.0,94.1,0.18,44502.0,9
+2023-09-01,2023,9,Middle East & Africa,Supply Chain,72.9,60.2,77.3,0.13,66621.0,6
+2023-09-01,2023,9,Middle East & Africa,Employee Wellbeing,90.2,77.3,87.1,0.01,71510.0,9
+2023-09-01,2023,9,Middle East & Africa,Community Impact,73.0,65.1,87.9,0.22,44002.0,11
+2023-09-01,2023,9,Middle East & Africa,Governance,89.5,81.6,95.0,0.1,45059.0,5
+2023-09-01,2023,9,Middle East & Africa,Innovation,78.2,67.7,92.4,0.3,70332.0,11
+2023-10-01,2023,10,North America,Carbon Footprint,82.8,64.0,88.8,0.23,30702.0,4
+2023-10-01,2023,10,North America,Water Stewardship,81.5,69.7,95.0,0.19,32098.0,5
+2023-10-01,2023,10,North America,Waste Management,85.9,71.0,95.0,0.22,38159.0,6
+2023-10-01,2023,10,North America,Supply Chain,68.1,58.3,80.0,0.25,52888.0,8
+2023-10-01,2023,10,North America,Employee Wellbeing,87.7,75.8,95.0,0.24,25838.0,3
+2023-10-01,2023,10,North America,Community Impact,77.1,62.6,85.1,0.22,29337.0,10
+2023-10-01,2023,10,North America,Governance,93.1,80.0,95.0,0.08,73263.0,10
+2023-10-01,2023,10,North America,Innovation,75.4,65.8,92.1,0.09,56340.0,8
+2023-10-01,2023,10,Europe,Carbon Footprint,81.0,63.5,89.4,0.16,71576.0,6
+2023-10-01,2023,10,Europe,Water Stewardship,85.3,70.3,90.7,0.23,67841.0,8
+2023-10-01,2023,10,Europe,Waste Management,85.4,69.1,94.2,0.14,83011.0,7
+2023-10-01,2023,10,Europe,Supply Chain,86.3,59.1,76.4,0.18,33371.0,8
+2023-10-01,2023,10,Europe,Employee Wellbeing,95.1,77.3,95.0,0.28,82475.0,6
+2023-10-01,2023,10,Europe,Community Impact,75.0,63.1,87.0,0.1,25879.0,7
+2023-10-01,2023,10,Europe,Governance,95.4,81.8,95.0,0.09,73551.0,5
+2023-10-01,2023,10,Europe,Innovation,85.0,69.4,92.5,0.16,62320.0,8
+2023-10-01,2023,10,Asia Pacific,Carbon Footprint,66.1,64.1,85.4,0.17,39623.0,5
+2023-10-01,2023,10,Asia Pacific,Water Stewardship,82.8,67.7,93.3,0.07,55474.0,10
+2023-10-01,2023,10,Asia Pacific,Waste Management,84.2,72.4,94.2,0.21,47890.0,9
+2023-10-01,2023,10,Asia Pacific,Supply Chain,59.0,58.4,79.4,0.3,79539.0,6
+2023-10-01,2023,10,Asia Pacific,Employee Wellbeing,86.3,77.0,95.0,0.35,76563.0,8
+2023-10-01,2023,10,Asia Pacific,Community Impact,78.4,64.7,87.8,0.16,45580.0,9
+2023-10-01,2023,10,Asia Pacific,Governance,86.3,79.4,95.0,0.14,64719.0,10
+2023-10-01,2023,10,Asia Pacific,Innovation,74.5,68.6,95.0,0.23,62771.0,9
+2023-10-01,2023,10,Latin America,Carbon Footprint,76.0,64.4,88.6,0.13,53601.0,6
+2023-10-01,2023,10,Latin America,Water Stewardship,74.6,68.5,87.9,0.29,63209.0,4
+2023-10-01,2023,10,Latin America,Waste Management,88.3,73.4,89.4,0.31,25864.0,4
+2023-10-01,2023,10,Latin America,Supply Chain,74.9,61.6,88.5,0.28,64191.0,5
+2023-10-01,2023,10,Latin America,Employee Wellbeing,84.2,76.9,95.0,0.2,47918.0,6
+2023-10-01,2023,10,Latin America,Community Impact,76.4,64.6,86.7,0.35,73838.0,10
+2023-10-01,2023,10,Latin America,Governance,91.7,77.2,95.0,0.38,76304.0,8
+2023-10-01,2023,10,Latin America,Innovation,85.1,68.1,90.7,0.1,30126.0,5
+2023-10-01,2023,10,Middle East & Africa,Carbon Footprint,76.5,61.2,85.4,0.24,36380.0,11
+2023-10-01,2023,10,Middle East & Africa,Water Stewardship,78.4,68.2,90.6,0.17,53107.0,6
+2023-10-01,2023,10,Middle East & Africa,Waste Management,87.0,72.6,95.0,0.02,47283.0,3
+2023-10-01,2023,10,Middle East & Africa,Supply Chain,73.0,62.2,85.9,0.14,70643.0,6
+2023-10-01,2023,10,Middle East & Africa,Employee Wellbeing,86.8,74.8,95.0,0.33,31952.0,3
+2023-10-01,2023,10,Middle East & Africa,Community Impact,72.6,64.1,85.4,0.3,77647.0,8
+2023-10-01,2023,10,Middle East & Africa,Governance,97.5,77.0,95.0,0.16,82851.0,8
+2023-10-01,2023,10,Middle East & Africa,Innovation,76.2,65.6,92.9,0.25,45844.0,7
+2023-11-01,2023,11,North America,Carbon Footprint,81.2,64.4,86.5,0.12,83225.0,9
+2023-11-01,2023,11,North America,Water Stewardship,79.9,68.2,87.0,0.12,54402.0,5
+2023-11-01,2023,11,North America,Waste Management,79.8,73.5,90.0,0.32,40089.0,9
+2023-11-01,2023,11,North America,Supply Chain,72.0,58.3,84.7,0.38,68581.0,11
+2023-11-01,2023,11,North America,Employee Wellbeing,94.1,75.6,95.0,0.35,74262.0,8
+2023-11-01,2023,11,North America,Community Impact,80.0,65.2,87.8,0.08,38885.0,5
+2023-11-01,2023,11,North America,Governance,91.0,80.2,95.0,0.22,41352.0,10
+2023-11-01,2023,11,North America,Innovation,82.3,69.3,91.2,0.15,46646.0,11
+2023-11-01,2023,11,Europe,Carbon Footprint,85.2,65.0,88.9,0.35,67979.0,8
+2023-11-01,2023,11,Europe,Water Stewardship,86.8,69.1,95.0,0.1,59570.0,8
+2023-11-01,2023,11,Europe,Waste Management,89.7,74.4,95.0,0.07,34085.0,3
+2023-11-01,2023,11,Europe,Supply Chain,74.1,60.6,83.5,0.33,35924.0,8
+2023-11-01,2023,11,Europe,Employee Wellbeing,92.2,78.5,94.5,0.06,76690.0,6
+2023-11-01,2023,11,Europe,Community Impact,81.5,65.9,88.0,0.19,72834.0,5
+2023-11-01,2023,11,Europe,Governance,92.4,79.5,95.0,0.12,50697.0,7
+2023-11-01,2023,11,Europe,Innovation,87.1,68.5,89.0,0.07,75931.0,7
+2023-11-01,2023,11,Asia Pacific,Carbon Footprint,68.3,66.1,81.9,0.09,78738.0,7
+2023-11-01,2023,11,Asia Pacific,Water Stewardship,85.3,72.0,95.0,0.22,71986.0,6
+2023-11-01,2023,11,Asia Pacific,Waste Management,86.8,73.9,95.0,0.34,53254.0,11
+2023-11-01,2023,11,Asia Pacific,Supply Chain,72.3,61.0,85.7,0.19,68929.0,9
+2023-11-01,2023,11,Asia Pacific,Employee Wellbeing,87.2,75.5,95.0,0.08,59093.0,4
+2023-11-01,2023,11,Asia Pacific,Community Impact,64.4,68.1,88.0,0.35,53870.0,9
+2023-11-01,2023,11,Asia Pacific,Governance,94.8,77.9,95.0,0.15,72169.0,9
+2023-11-01,2023,11,Asia Pacific,Innovation,75.8,68.1,92.8,0.22,54679.0,8
+2023-11-01,2023,11,Latin America,Carbon Footprint,84.0,66.3,81.4,0.35,57369.0,10
+2023-11-01,2023,11,Latin America,Water Stewardship,84.9,71.0,95.0,0.16,48271.0,8
+2023-11-01,2023,11,Latin America,Waste Management,78.4,73.2,95.0,0.18,79765.0,4
+2023-11-01,2023,11,Latin America,Supply Chain,64.3,57.0,84.3,0.2,56125.0,10
+2023-11-01,2023,11,Latin America,Employee Wellbeing,87.4,77.6,95.0,0.34,70508.0,3
+2023-11-01,2023,11,Latin America,Community Impact,81.5,63.5,90.2,0.18,56060.0,3
+2023-11-01,2023,11,Latin America,Governance,93.9,83.8,95.0,0.16,59971.0,9
+2023-11-01,2023,11,Latin America,Innovation,83.5,64.9,90.7,0.28,71539.0,4
+2023-11-01,2023,11,Middle East & Africa,Carbon Footprint,74.6,62.7,90.0,0.31,82305.0,8
+2023-11-01,2023,11,Middle East & Africa,Water Stewardship,86.7,69.2,94.0,0.16,46956.0,4
+2023-11-01,2023,11,Middle East & Africa,Waste Management,78.9,72.9,92.7,0.06,28354.0,3
+2023-11-01,2023,11,Middle East & Africa,Supply Chain,74.4,61.4,82.0,0.27,44671.0,4
+2023-11-01,2023,11,Middle East & Africa,Employee Wellbeing,90.0,79.1,95.0,0.14,66353.0,10
+2023-11-01,2023,11,Middle East & Africa,Community Impact,77.0,67.4,93.8,0.24,71663.0,4
+2023-11-01,2023,11,Middle East & Africa,Governance,88.1,82.5,95.0,0.18,60305.0,3
+2023-11-01,2023,11,Middle East & Africa,Innovation,79.3,68.5,90.4,0.2,42915.0,3
+2023-12-01,2023,12,North America,Carbon Footprint,71.0,66.8,86.7,0.36,28000.0,4
+2023-12-01,2023,12,North America,Water Stewardship,82.1,66.2,91.6,0.2,81601.0,7
+2023-12-01,2023,12,North America,Waste Management,85.3,71.3,92.3,0.16,30512.0,3
+2023-12-01,2023,12,North America,Supply Chain,75.0,61.7,81.0,0.3,35872.0,9
+2023-12-01,2023,12,North America,Employee Wellbeing,90.6,77.7,95.0,0.06,36358.0,10
+2023-12-01,2023,12,North America,Community Impact,83.6,68.4,89.4,0.3,43254.0,6
+2023-12-01,2023,12,North America,Governance,92.0,77.4,95.0,0.12,35154.0,10
+2023-12-01,2023,12,North America,Innovation,82.1,67.7,88.8,0.06,25518.0,10
+2023-12-01,2023,12,Europe,Carbon Footprint,82.2,60.5,90.7,0.25,40012.0,9
+2023-12-01,2023,12,Europe,Water Stewardship,89.0,68.7,93.4,0.1,27784.0,4
+2023-12-01,2023,12,Europe,Waste Management,89.3,69.2,94.5,0.04,56271.0,9
+2023-12-01,2023,12,Europe,Supply Chain,77.6,61.4,79.1,0.12,63079.0,11
+2023-12-01,2023,12,Europe,Employee Wellbeing,91.7,78.3,95.0,0.25,32677.0,9
+2023-12-01,2023,12,Europe,Community Impact,82.3,61.3,86.5,0.18,71115.0,10
+2023-12-01,2023,12,Europe,Governance,94.6,78.5,95.0,0.17,29636.0,10
+2023-12-01,2023,12,Europe,Innovation,85.0,68.6,89.8,0.18,31683.0,5
+2023-12-01,2023,12,Asia Pacific,Carbon Footprint,74.2,60.4,85.9,0.25,71700.0,8
+2023-12-01,2023,12,Asia Pacific,Water Stewardship,82.9,70.8,93.1,0.15,69833.0,10
+2023-12-01,2023,12,Asia Pacific,Waste Management,80.1,70.3,94.8,0.32,26248.0,3
+2023-12-01,2023,12,Asia Pacific,Supply Chain,70.0,60.1,84.3,0.25,50078.0,11
+2023-12-01,2023,12,Asia Pacific,Employee Wellbeing,84.6,79.0,95.0,0.36,64627.0,11
+2023-12-01,2023,12,Asia Pacific,Community Impact,77.6,63.7,89.7,0.21,33068.0,9
+2023-12-01,2023,12,Asia Pacific,Governance,86.8,76.3,95.0,0.15,50440.0,3
+2023-12-01,2023,12,Asia Pacific,Innovation,76.8,68.0,91.7,0.27,64650.0,11
+2023-12-01,2023,12,Latin America,Carbon Footprint,77.8,65.9,89.1,0.05,41854.0,7
+2023-12-01,2023,12,Latin America,Water Stewardship,76.3,69.0,92.6,0.16,79769.0,4
+2023-12-01,2023,12,Latin America,Waste Management,78.5,73.6,92.9,0.25,60763.0,3
+2023-12-01,2023,12,Latin America,Supply Chain,70.9,59.0,84.3,0.17,79888.0,9
+2023-12-01,2023,12,Latin America,Employee Wellbeing,84.9,78.0,95.0,0.09,71620.0,5
+2023-12-01,2023,12,Latin America,Community Impact,72.2,66.3,89.0,0.21,26823.0,5
+2023-12-01,2023,12,Latin America,Governance,94.6,79.4,95.0,0.16,54265.0,5
+2023-12-01,2023,12,Latin America,Innovation,83.8,68.0,95.0,0.17,35895.0,11
+2023-12-01,2023,12,Middle East & Africa,Carbon Footprint,74.9,63.5,84.7,0.15,49401.0,7
+2023-12-01,2023,12,Middle East & Africa,Water Stewardship,79.3,70.0,94.9,0.14,73636.0,5
+2023-12-01,2023,12,Middle East & Africa,Waste Management,78.3,71.7,95.0,0.13,46143.0,3
+2023-12-01,2023,12,Middle East & Africa,Supply Chain,65.5,63.4,85.4,0.28,81762.0,6
+2023-12-01,2023,12,Middle East & Africa,Employee Wellbeing,78.6,76.1,95.0,0.06,74682.0,4
+2023-12-01,2023,12,Middle East & Africa,Community Impact,73.5,65.0,89.2,0.23,34744.0,3
+2023-12-01,2023,12,Middle East & Africa,Governance,90.0,78.3,95.0,0.23,73663.0,3
+2023-12-01,2023,12,Middle East & Africa,Innovation,79.8,67.2,91.0,0.29,63786.0,11
+2024-01-01,2024,1,North America,Carbon Footprint,74.7,66.8,83.6,0.18,43243.0,7
+2024-01-01,2024,1,North America,Water Stewardship,84.2,69.6,93.1,0.18,71296.0,9
+2024-01-01,2024,1,North America,Waste Management,80.4,75.5,94.3,0.26,70008.0,11
+2024-01-01,2024,1,North America,Supply Chain,75.0,62.6,85.3,0.18,27643.0,6
+2024-01-01,2024,1,North America,Employee Wellbeing,92.7,78.2,95.0,0.33,33611.0,3
+2024-01-01,2024,1,North America,Community Impact,82.1,68.6,85.6,0.19,81805.0,3
+2024-01-01,2024,1,North America,Governance,92.0,85.2,95.0,0.33,53147.0,10
+2024-01-01,2024,1,North America,Innovation,80.0,68.0,93.8,0.18,74866.0,5
+2024-01-01,2024,1,Europe,Carbon Footprint,77.2,64.5,90.2,0.24,36251.0,5
+2024-01-01,2024,1,Europe,Water Stewardship,92.5,69.6,90.3,0.31,39582.0,9
+2024-01-01,2024,1,Europe,Waste Management,98.0,70.9,95.0,0.4,61784.0,10
+2024-01-01,2024,1,Europe,Supply Chain,72.1,64.1,85.6,0.06,55653.0,9
+2024-01-01,2024,1,Europe,Employee Wellbeing,93.7,75.9,95.0,0.28,62019.0,3
+2024-01-01,2024,1,Europe,Community Impact,96.3,66.0,90.9,0.1,49176.0,11
+2024-01-01,2024,1,Europe,Governance,92.4,82.9,95.0,0.37,67436.0,3
+2024-01-01,2024,1,Europe,Innovation,84.5,69.5,82.3,0.25,84363.0,10
+2024-01-01,2024,1,Asia Pacific,Carbon Footprint,77.9,62.6,90.2,0.18,26851.0,6
+2024-01-01,2024,1,Asia Pacific,Water Stewardship,86.1,69.1,91.3,0.11,68433.0,3
+2024-01-01,2024,1,Asia Pacific,Waste Management,84.4,70.5,95.0,0.26,56628.0,3
+2024-01-01,2024,1,Asia Pacific,Supply Chain,69.5,60.1,81.4,0.19,67581.0,7
+2024-01-01,2024,1,Asia Pacific,Employee Wellbeing,87.0,79.7,95.0,0.07,72425.0,6
+2024-01-01,2024,1,Asia Pacific,Community Impact,75.5,64.8,90.3,0.31,25744.0,7
+2024-01-01,2024,1,Asia Pacific,Governance,80.3,80.1,95.0,0.1,29498.0,5
+2024-01-01,2024,1,Asia Pacific,Innovation,77.5,66.4,91.3,0.22,47796.0,10
+2024-01-01,2024,1,Latin America,Carbon Footprint,84.9,66.1,91.5,0.23,27519.0,3
+2024-01-01,2024,1,Latin America,Water Stewardship,82.7,68.9,95.0,0.31,67756.0,5
+2024-01-01,2024,1,Latin America,Waste Management,82.5,72.6,95.0,0.35,40532.0,11
+2024-01-01,2024,1,Latin America,Supply Chain,74.0,62.1,85.4,0.2,52727.0,7
+2024-01-01,2024,1,Latin America,Employee Wellbeing,91.7,74.6,95.0,0.18,55598.0,9
+2024-01-01,2024,1,Latin America,Community Impact,81.7,66.0,80.7,0.16,66047.0,3
+2024-01-01,2024,1,Latin America,Governance,88.9,83.5,95.0,0.16,32637.0,6
+2024-01-01,2024,1,Latin America,Innovation,81.2,66.9,90.5,0.25,79222.0,9
+2024-01-01,2024,1,Middle East & Africa,Carbon Footprint,80.2,60.7,89.1,0.1,27688.0,10
+2024-01-01,2024,1,Middle East & Africa,Water Stewardship,79.2,70.2,94.2,0.25,65676.0,6
+2024-01-01,2024,1,Middle East & Africa,Waste Management,82.1,70.6,91.2,0.06,58929.0,4
+2024-01-01,2024,1,Middle East & Africa,Supply Chain,74.2,58.3,79.6,0.18,82589.0,9
+2024-01-01,2024,1,Middle East & Africa,Employee Wellbeing,84.9,76.7,95.0,0.08,83129.0,7
+2024-01-01,2024,1,Middle East & Africa,Community Impact,72.9,66.2,84.0,0.26,36888.0,7
+2024-01-01,2024,1,Middle East & Africa,Governance,94.5,78.2,95.0,0.26,44348.0,4
+2024-01-01,2024,1,Middle East & Africa,Innovation,83.3,62.9,94.3,0.05,64745.0,3
+2024-02-01,2024,2,North America,Carbon Footprint,79.4,64.6,87.1,0.16,61232.0,9
+2024-02-01,2024,2,North America,Water Stewardship,87.7,69.2,86.0,0.3,68155.0,11
+2024-02-01,2024,2,North America,Waste Management,82.7,71.3,93.2,0.2,65475.0,5
+2024-02-01,2024,2,North America,Supply Chain,81.1,58.8,78.2,0.19,77822.0,9
+2024-02-01,2024,2,North America,Employee Wellbeing,96.4,78.6,94.6,0.08,34607.0,10
+2024-02-01,2024,2,North America,Community Impact,84.1,63.1,90.9,0.14,31315.0,8
+2024-02-01,2024,2,North America,Governance,95.2,82.1,95.0,0.39,58542.0,3
+2024-02-01,2024,2,North America,Innovation,83.4,65.1,90.2,0.27,68535.0,9
+2024-02-01,2024,2,Europe,Carbon Footprint,78.5,64.6,83.1,0.13,76221.0,7
+2024-02-01,2024,2,Europe,Water Stewardship,90.1,70.1,94.3,0.25,33533.0,3
+2024-02-01,2024,2,Europe,Waste Management,91.5,70.8,92.1,0.18,69341.0,4
+2024-02-01,2024,2,Europe,Supply Chain,84.1,61.1,77.6,0.14,37072.0,7
+2024-02-01,2024,2,Europe,Employee Wellbeing,95.1,77.9,95.0,0.38,52958.0,4
+2024-02-01,2024,2,Europe,Community Impact,82.6,63.6,88.3,0.19,70702.0,8
+2024-02-01,2024,2,Europe,Governance,98.0,79.0,95.0,0.4,64465.0,10
+2024-02-01,2024,2,Europe,Innovation,84.3,70.2,89.5,0.03,81758.0,10
+2024-02-01,2024,2,Asia Pacific,Carbon Footprint,75.1,61.5,87.8,0.33,49232.0,5
+2024-02-01,2024,2,Asia Pacific,Water Stewardship,83.5,69.0,94.2,0.24,41964.0,10
+2024-02-01,2024,2,Asia Pacific,Waste Management,71.8,72.8,90.3,0.29,25958.0,6
+2024-02-01,2024,2,Asia Pacific,Supply Chain,72.8,56.5,82.4,0.24,84828.0,3
+2024-02-01,2024,2,Asia Pacific,Employee Wellbeing,88.0,76.0,95.0,0.35,42163.0,10
+2024-02-01,2024,2,Asia Pacific,Community Impact,80.4,66.5,89.5,0.25,84604.0,10
+2024-02-01,2024,2,Asia Pacific,Governance,85.4,83.0,95.0,0.22,43329.0,3
+2024-02-01,2024,2,Asia Pacific,Innovation,78.0,66.8,88.3,0.25,25720.0,9
+2024-02-01,2024,2,Latin America,Carbon Footprint,74.8,64.3,87.3,0.24,64091.0,10
+2024-02-01,2024,2,Latin America,Water Stewardship,86.8,66.1,94.4,0.21,32889.0,9
+2024-02-01,2024,2,Latin America,Waste Management,90.6,72.5,92.8,0.14,52703.0,11
+2024-02-01,2024,2,Latin America,Supply Chain,74.0,59.6,86.0,0.25,44444.0,5
+2024-02-01,2024,2,Latin America,Employee Wellbeing,91.0,75.7,93.5,0.13,31800.0,5
+2024-02-01,2024,2,Latin America,Community Impact,81.9,60.5,85.7,0.28,31040.0,10
+2024-02-01,2024,2,Latin America,Governance,91.3,77.6,95.0,0.24,30563.0,6
+2024-02-01,2024,2,Latin America,Innovation,82.9,67.7,86.2,0.21,64346.0,5
+2024-02-01,2024,2,Middle East & Africa,Carbon Footprint,80.9,63.4,90.2,0.12,28345.0,6
+2024-02-01,2024,2,Middle East & Africa,Water Stewardship,81.9,70.1,93.0,0.19,75046.0,7
+2024-02-01,2024,2,Middle East & Africa,Waste Management,76.0,75.8,93.9,0.19,62304.0,9
+2024-02-01,2024,2,Middle East & Africa,Supply Chain,74.1,62.5,82.5,0.29,61071.0,4
+2024-02-01,2024,2,Middle East & Africa,Employee Wellbeing,91.2,79.3,95.0,0.22,34523.0,4
+2024-02-01,2024,2,Middle East & Africa,Community Impact,75.7,62.4,93.2,0.3,78866.0,8
+2024-02-01,2024,2,Middle East & Africa,Governance,95.0,78.0,95.0,0.33,41414.0,6
+2024-02-01,2024,2,Middle East & Africa,Innovation,74.4,66.8,86.3,0.18,54967.0,3
+2024-03-01,2024,3,North America,Carbon Footprint,75.2,63.9,88.8,0.1,31708.0,8
+2024-03-01,2024,3,North America,Water Stewardship,83.2,69.8,94.1,0.22,54570.0,10
+2024-03-01,2024,3,North America,Waste Management,82.7,73.9,95.0,0.29,31251.0,11
+2024-03-01,2024,3,North America,Supply Chain,72.7,57.4,89.7,0.14,64897.0,5
+2024-03-01,2024,3,North America,Employee Wellbeing,86.4,76.2,95.0,0.19,70043.0,6
+2024-03-01,2024,3,North America,Community Impact,77.7,63.2,90.9,0.13,30798.0,7
+2024-03-01,2024,3,North America,Governance,94.0,80.1,95.0,0.22,69623.0,10
+2024-03-01,2024,3,North America,Innovation,76.0,65.7,92.8,0.12,75429.0,9
+2024-03-01,2024,3,Europe,Carbon Footprint,75.6,63.2,89.4,0.19,76792.0,5
+2024-03-01,2024,3,Europe,Water Stewardship,92.6,68.6,95.0,0.02,50339.0,5
+2024-03-01,2024,3,Europe,Waste Management,88.9,71.4,93.4,0.13,29548.0,6
+2024-03-01,2024,3,Europe,Supply Chain,80.9,60.1,82.3,0.19,46742.0,10
+2024-03-01,2024,3,Europe,Employee Wellbeing,90.1,75.0,95.0,0.25,83216.0,10
+2024-03-01,2024,3,Europe,Community Impact,86.7,68.3,90.2,0.11,45828.0,7
+2024-03-01,2024,3,Europe,Governance,96.9,78.8,95.0,0.41,45611.0,7
+2024-03-01,2024,3,Europe,Innovation,84.1,70.3,95.0,0.21,75497.0,7
+2024-03-01,2024,3,Asia Pacific,Carbon Footprint,73.6,64.9,89.5,0.09,35545.0,11
+2024-03-01,2024,3,Asia Pacific,Water Stewardship,86.3,68.2,91.1,0.21,67545.0,10
+2024-03-01,2024,3,Asia Pacific,Waste Management,82.0,72.6,95.0,0.2,41152.0,4
+2024-03-01,2024,3,Asia Pacific,Supply Chain,73.8,58.4,78.3,0.17,79800.0,7
+2024-03-01,2024,3,Asia Pacific,Employee Wellbeing,81.4,77.7,95.0,0.12,45583.0,7
+2024-03-01,2024,3,Asia Pacific,Community Impact,78.7,66.6,87.9,0.07,26652.0,5
+2024-03-01,2024,3,Asia Pacific,Governance,92.9,79.5,94.7,0.28,26098.0,10
+2024-03-01,2024,3,Asia Pacific,Innovation,81.8,69.7,86.2,0.01,83508.0,8
+2024-03-01,2024,3,Latin America,Carbon Footprint,76.5,65.0,84.2,0.04,44016.0,10
+2024-03-01,2024,3,Latin America,Water Stewardship,86.7,70.0,92.5,0.19,33284.0,4
+2024-03-01,2024,3,Latin America,Waste Management,81.8,73.0,95.0,0.15,32486.0,3
+2024-03-01,2024,3,Latin America,Supply Chain,81.7,60.8,83.8,0.27,81771.0,5
+2024-03-01,2024,3,Latin America,Employee Wellbeing,95.1,76.1,95.0,0.3,55361.0,3
+2024-03-01,2024,3,Latin America,Community Impact,76.1,64.0,87.0,0.11,83647.0,6
+2024-03-01,2024,3,Latin America,Governance,95.9,78.4,95.0,0.29,73561.0,5
+2024-03-01,2024,3,Latin America,Innovation,78.3,67.8,92.3,-0.06,68517.0,8
+2024-03-01,2024,3,Middle East & Africa,Carbon Footprint,75.0,64.7,84.5,0.24,53685.0,7
+2024-03-01,2024,3,Middle East & Africa,Water Stewardship,80.2,71.6,95.0,0.06,38243.0,4
+2024-03-01,2024,3,Middle East & Africa,Waste Management,81.6,71.8,90.7,0.17,53234.0,3
+2024-03-01,2024,3,Middle East & Africa,Supply Chain,69.4,59.7,79.9,0.3,56240.0,3
+2024-03-01,2024,3,Middle East & Africa,Employee Wellbeing,88.6,77.0,95.0,0.28,31004.0,6
+2024-03-01,2024,3,Middle East & Africa,Community Impact,77.4,63.8,87.8,0.09,43330.0,9
+2024-03-01,2024,3,Middle East & Africa,Governance,97.0,79.9,95.0,0.12,51287.0,6
+2024-03-01,2024,3,Middle East & Africa,Innovation,89.2,65.8,93.3,0.07,80685.0,9
+2024-04-01,2024,4,North America,Carbon Footprint,88.7,63.4,84.9,0.24,64407.0,4
+2024-04-01,2024,4,North America,Water Stewardship,83.2,68.5,94.5,0.21,66918.0,8
+2024-04-01,2024,4,North America,Waste Management,83.4,71.2,91.0,0.25,67396.0,4
+2024-04-01,2024,4,North America,Supply Chain,78.1,58.6,81.6,0.3,37403.0,11
+2024-04-01,2024,4,North America,Employee Wellbeing,93.2,78.2,95.0,0.06,29093.0,3
+2024-04-01,2024,4,North America,Community Impact,75.5,63.0,89.7,0.23,39763.0,4
+2024-04-01,2024,4,North America,Governance,95.3,79.4,95.0,0.4,74217.0,5
+2024-04-01,2024,4,North America,Innovation,82.0,64.0,88.0,0.28,37602.0,7
+2024-04-01,2024,4,Europe,Carbon Footprint,84.0,62.8,88.3,0.47,77336.0,9
+2024-04-01,2024,4,Europe,Water Stewardship,87.4,67.8,95.0,0.14,68142.0,7
+2024-04-01,2024,4,Europe,Waste Management,89.0,74.4,95.0,0.14,31863.0,9
+2024-04-01,2024,4,Europe,Supply Chain,82.0,62.5,83.1,0.33,78822.0,8
+2024-04-01,2024,4,Europe,Employee Wellbeing,98.0,82.0,95.0,0.23,66702.0,5
+2024-04-01,2024,4,Europe,Community Impact,85.0,63.5,91.6,0.17,71392.0,4
+2024-04-01,2024,4,Europe,Governance,96.5,79.9,95.0,0.14,38929.0,10
+2024-04-01,2024,4,Europe,Innovation,81.5,66.8,95.0,0.28,80609.0,9
+2024-04-01,2024,4,Asia Pacific,Carbon Footprint,76.2,63.0,85.8,0.05,56950.0,9
+2024-04-01,2024,4,Asia Pacific,Water Stewardship,81.1,70.4,95.0,0.23,68158.0,7
+2024-04-01,2024,4,Asia Pacific,Waste Management,81.9,68.6,90.4,0.18,78377.0,8
+2024-04-01,2024,4,Asia Pacific,Supply Chain,66.7,59.5,80.6,0.31,61378.0,8
+2024-04-01,2024,4,Asia Pacific,Employee Wellbeing,88.8,80.7,95.0,0.22,64917.0,4
+2024-04-01,2024,4,Asia Pacific,Community Impact,76.5,60.1,91.3,0.29,67295.0,3
+2024-04-01,2024,4,Asia Pacific,Governance,84.4,78.5,95.0,0.08,36575.0,7
+2024-04-01,2024,4,Asia Pacific,Innovation,78.7,68.1,92.2,0.25,48955.0,9
+2024-04-01,2024,4,Latin America,Carbon Footprint,74.2,62.8,83.0,0.21,83534.0,10
+2024-04-01,2024,4,Latin America,Water Stewardship,83.8,71.0,88.2,0.2,63148.0,10
+2024-04-01,2024,4,Latin America,Waste Management,78.8,72.0,92.8,0.2,68267.0,7
+2024-04-01,2024,4,Latin America,Supply Chain,74.7,60.6,82.9,0.25,79582.0,6
+2024-04-01,2024,4,Latin America,Employee Wellbeing,89.8,79.8,95.0,0.18,66947.0,10
+2024-04-01,2024,4,Latin America,Community Impact,82.7,65.2,87.3,0.21,71012.0,3
+2024-04-01,2024,4,Latin America,Governance,92.4,82.0,95.0,0.26,63218.0,9
+2024-04-01,2024,4,Latin America,Innovation,80.3,68.7,86.2,0.22,53053.0,4
+2024-04-01,2024,4,Middle East & Africa,Carbon Footprint,70.6,66.2,85.8,0.29,42210.0,7
+2024-04-01,2024,4,Middle East & Africa,Water Stewardship,80.5,68.9,93.0,0.35,37381.0,3
+2024-04-01,2024,4,Middle East & Africa,Waste Management,91.1,71.5,91.2,0.13,48783.0,11
+2024-04-01,2024,4,Middle East & Africa,Supply Chain,66.1,59.0,86.9,0.23,26340.0,8
+2024-04-01,2024,4,Middle East & Africa,Employee Wellbeing,87.6,78.1,95.0,0.28,56004.0,11
+2024-04-01,2024,4,Middle East & Africa,Community Impact,78.9,63.8,87.9,0.33,25389.0,7
+2024-04-01,2024,4,Middle East & Africa,Governance,93.2,77.7,95.0,0.37,62848.0,3
+2024-04-01,2024,4,Middle East & Africa,Innovation,79.3,66.9,89.8,0.27,65472.0,4
+2024-05-01,2024,5,North America,Carbon Footprint,77.9,60.5,88.1,0.21,59465.0,3
+2024-05-01,2024,5,North America,Water Stewardship,78.3,68.6,93.1,0.03,44000.0,5
+2024-05-01,2024,5,North America,Waste Management,85.9,72.9,92.3,0.11,73662.0,10
+2024-05-01,2024,5,North America,Supply Chain,70.8,63.7,83.6,0.18,75929.0,6
+2024-05-01,2024,5,North America,Employee Wellbeing,92.8,73.5,95.0,0.16,82185.0,7
+2024-05-01,2024,5,North America,Community Impact,74.3,64.8,93.1,0.2,39883.0,6
+2024-05-01,2024,5,North America,Governance,91.6,77.8,95.0,0.25,26772.0,7
+2024-05-01,2024,5,North America,Innovation,73.4,68.7,88.9,0.21,45434.0,4
+2024-05-01,2024,5,Europe,Carbon Footprint,80.3,61.3,84.3,0.2,31079.0,9
+2024-05-01,2024,5,Europe,Water Stewardship,83.8,69.3,95.0,0.11,28106.0,7
+2024-05-01,2024,5,Europe,Waste Management,95.1,71.0,95.0,0.3,48087.0,8
+2024-05-01,2024,5,Europe,Supply Chain,73.0,62.3,86.0,0.14,55054.0,7
+2024-05-01,2024,5,Europe,Employee Wellbeing,89.5,75.3,95.0,0.23,51442.0,9
+2024-05-01,2024,5,Europe,Community Impact,79.7,66.8,89.1,0.16,73684.0,11
+2024-05-01,2024,5,Europe,Governance,98.0,79.2,95.0,0.37,67627.0,4
+2024-05-01,2024,5,Europe,Innovation,79.5,64.9,91.7,0.19,55174.0,4
+2024-05-01,2024,5,Asia Pacific,Carbon Footprint,78.1,61.1,92.2,0.26,54938.0,11
+2024-05-01,2024,5,Asia Pacific,Water Stewardship,87.6,71.9,91.9,0.28,45817.0,3
+2024-05-01,2024,5,Asia Pacific,Waste Management,88.5,72.8,95.0,0.32,35441.0,9
+2024-05-01,2024,5,Asia Pacific,Supply Chain,77.2,61.0,84.8,0.21,62622.0,8
+2024-05-01,2024,5,Asia Pacific,Employee Wellbeing,86.1,79.1,95.0,0.0,60068.0,4
+2024-05-01,2024,5,Asia Pacific,Community Impact,79.6,66.2,90.3,0.46,42679.0,11
+2024-05-01,2024,5,Asia Pacific,Governance,90.1,83.3,95.0,0.32,28589.0,4
+2024-05-01,2024,5,Asia Pacific,Innovation,77.7,65.3,85.6,0.35,56809.0,3
+2024-05-01,2024,5,Latin America,Carbon Footprint,74.7,67.9,87.3,0.07,71857.0,6
+2024-05-01,2024,5,Latin America,Water Stewardship,80.7,69.3,95.0,0.23,58680.0,4
+2024-05-01,2024,5,Latin America,Waste Management,86.0,72.1,95.0,0.22,30070.0,5
+2024-05-01,2024,5,Latin America,Supply Chain,78.9,58.6,76.5,0.18,34484.0,10
+2024-05-01,2024,5,Latin America,Employee Wellbeing,89.5,76.3,95.0,0.07,50563.0,7
+2024-05-01,2024,5,Latin America,Community Impact,81.8,65.6,89.5,0.01,30993.0,9
+2024-05-01,2024,5,Latin America,Governance,98.0,80.7,95.0,0.03,73454.0,5
+2024-05-01,2024,5,Latin America,Innovation,86.2,67.4,90.2,0.17,75727.0,7
+2024-05-01,2024,5,Middle East & Africa,Carbon Footprint,75.2,65.3,85.4,0.3,73719.0,9
+2024-05-01,2024,5,Middle East & Africa,Water Stewardship,90.1,64.8,95.0,0.25,68318.0,11
+2024-05-01,2024,5,Middle East & Africa,Waste Management,85.6,72.7,95.0,0.28,34239.0,11
+2024-05-01,2024,5,Middle East & Africa,Supply Chain,72.5,59.6,83.1,0.16,49729.0,8
+2024-05-01,2024,5,Middle East & Africa,Employee Wellbeing,92.6,78.5,95.0,0.23,50046.0,10
+2024-05-01,2024,5,Middle East & Africa,Community Impact,82.8,67.2,85.9,0.09,82349.0,10
+2024-05-01,2024,5,Middle East & Africa,Governance,93.3,77.5,94.3,0.15,53237.0,8
+2024-05-01,2024,5,Middle East & Africa,Innovation,81.1,68.4,89.9,0.17,55668.0,10
+2024-06-01,2024,6,North America,Carbon Footprint,77.4,65.6,83.9,0.07,59720.0,5
+2024-06-01,2024,6,North America,Water Stewardship,83.1,71.7,93.2,0.06,77098.0,6
+2024-06-01,2024,6,North America,Waste Management,84.7,74.4,93.6,0.27,53314.0,5
+2024-06-01,2024,6,North America,Supply Chain,72.2,57.2,86.3,0.14,69858.0,6
+2024-06-01,2024,6,North America,Employee Wellbeing,91.4,78.6,94.9,0.12,25902.0,8
+2024-06-01,2024,6,North America,Community Impact,87.1,66.7,84.8,0.22,66723.0,6
+2024-06-01,2024,6,North America,Governance,84.7,80.6,95.0,0.09,77988.0,4
+2024-06-01,2024,6,North America,Innovation,73.7,64.4,89.5,0.12,53769.0,3
+2024-06-01,2024,6,Europe,Carbon Footprint,79.2,63.9,87.9,0.28,28386.0,10
+2024-06-01,2024,6,Europe,Water Stewardship,83.8,68.7,94.8,0.05,29893.0,3
+2024-06-01,2024,6,Europe,Waste Management,91.2,72.1,87.2,0.15,81832.0,5
+2024-06-01,2024,6,Europe,Supply Chain,80.1,59.6,81.6,0.22,65439.0,10
+2024-06-01,2024,6,Europe,Employee Wellbeing,92.8,74.1,95.0,0.08,64852.0,3
+2024-06-01,2024,6,Europe,Community Impact,88.4,67.6,88.2,0.15,61836.0,6
+2024-06-01,2024,6,Europe,Governance,97.6,81.4,95.0,0.15,61313.0,11
+2024-06-01,2024,6,Europe,Innovation,83.6,64.2,93.4,0.19,49874.0,9
+2024-06-01,2024,6,Asia Pacific,Carbon Footprint,73.6,61.7,86.1,0.08,29936.0,11
+2024-06-01,2024,6,Asia Pacific,Water Stewardship,82.4,70.2,95.0,0.05,44771.0,9
+2024-06-01,2024,6,Asia Pacific,Waste Management,84.2,69.7,95.0,-0.05,59178.0,3
+2024-06-01,2024,6,Asia Pacific,Supply Chain,77.8,55.7,83.0,0.15,50579.0,6
+2024-06-01,2024,6,Asia Pacific,Employee Wellbeing,85.9,77.9,95.0,0.07,66229.0,3
+2024-06-01,2024,6,Asia Pacific,Community Impact,68.5,65.8,87.4,0.36,75045.0,6
+2024-06-01,2024,6,Asia Pacific,Governance,93.0,81.6,95.0,0.25,54182.0,6
+2024-06-01,2024,6,Asia Pacific,Innovation,75.1,69.5,87.0,0.17,63789.0,11
+2024-06-01,2024,6,Latin America,Carbon Footprint,79.5,66.2,87.8,0.15,61530.0,4
+2024-06-01,2024,6,Latin America,Water Stewardship,81.7,69.5,95.0,0.18,40083.0,3
+2024-06-01,2024,6,Latin America,Waste Management,85.8,70.0,95.0,0.15,39276.0,9
+2024-06-01,2024,6,Latin America,Supply Chain,77.0,60.3,83.1,0.22,41418.0,11
+2024-06-01,2024,6,Latin America,Employee Wellbeing,91.1,78.2,95.0,0.07,44201.0,7
+2024-06-01,2024,6,Latin America,Community Impact,73.1,68.6,92.6,0.14,25182.0,11
+2024-06-01,2024,6,Latin America,Governance,98.0,82.1,95.0,0.19,25019.0,3
+2024-06-01,2024,6,Latin America,Innovation,84.3,68.6,91.9,0.05,56923.0,7
+2024-06-01,2024,6,Middle East & Africa,Carbon Footprint,69.2,65.0,93.1,0.3,43686.0,8
+2024-06-01,2024,6,Middle East & Africa,Water Stewardship,86.0,70.5,95.0,0.1,52046.0,4
+2024-06-01,2024,6,Middle East & Africa,Waste Management,83.3,71.7,93.6,0.18,80527.0,3
+2024-06-01,2024,6,Middle East & Africa,Supply Chain,70.1,59.9,78.7,0.25,35600.0,8
+2024-06-01,2024,6,Middle East & Africa,Employee Wellbeing,95.1,75.3,95.0,0.23,28503.0,5
+2024-06-01,2024,6,Middle East & Africa,Community Impact,81.8,65.4,89.7,0.3,59444.0,8
+2024-06-01,2024,6,Middle East & Africa,Governance,94.6,77.3,95.0,0.19,78264.0,10
+2024-06-01,2024,6,Middle East & Africa,Innovation,76.9,65.6,89.8,0.27,73322.0,5
+2024-07-01,2024,7,North America,Carbon Footprint,78.1,64.1,92.6,0.22,82842.0,7
+2024-07-01,2024,7,North America,Water Stewardship,91.2,69.9,94.3,0.19,27426.0,6
+2024-07-01,2024,7,North America,Waste Management,83.8,75.4,93.3,0.05,77891.0,7
+2024-07-01,2024,7,North America,Supply Chain,79.0,57.6,86.3,0.41,48469.0,3
+2024-07-01,2024,7,North America,Employee Wellbeing,86.1,80.7,95.0,0.16,39965.0,10
+2024-07-01,2024,7,North America,Community Impact,75.0,64.9,95.0,0.17,33621.0,6
+2024-07-01,2024,7,North America,Governance,95.5,81.8,95.0,0.25,44329.0,6
+2024-07-01,2024,7,North America,Innovation,82.8,71.1,86.4,0.22,53487.0,10
+2024-07-01,2024,7,Europe,Carbon Footprint,77.3,64.1,91.5,0.15,33100.0,8
+2024-07-01,2024,7,Europe,Water Stewardship,88.6,70.8,93.4,0.16,27826.0,4
+2024-07-01,2024,7,Europe,Waste Management,92.8,73.3,95.0,0.17,64911.0,7
+2024-07-01,2024,7,Europe,Supply Chain,79.5,59.5,78.6,0.11,42296.0,3
+2024-07-01,2024,7,Europe,Employee Wellbeing,93.4,77.9,95.0,0.2,62673.0,6
+2024-07-01,2024,7,Europe,Community Impact,81.0,65.5,86.4,0.17,63764.0,3
+2024-07-01,2024,7,Europe,Governance,95.1,80.6,95.0,0.26,32595.0,3
+2024-07-01,2024,7,Europe,Innovation,88.9,66.4,91.1,0.16,50042.0,10
+2024-07-01,2024,7,Asia Pacific,Carbon Footprint,74.2,63.1,84.8,0.4,58915.0,11
+2024-07-01,2024,7,Asia Pacific,Water Stewardship,79.1,72.2,91.4,0.21,52174.0,8
+2024-07-01,2024,7,Asia Pacific,Waste Management,85.2,72.6,95.0,0.17,64691.0,3
+2024-07-01,2024,7,Asia Pacific,Supply Chain,69.2,55.3,80.5,0.17,58095.0,4
+2024-07-01,2024,7,Asia Pacific,Employee Wellbeing,85.0,76.9,95.0,0.32,78305.0,3
+2024-07-01,2024,7,Asia Pacific,Community Impact,78.4,68.6,87.8,0.19,66637.0,6
+2024-07-01,2024,7,Asia Pacific,Governance,98.0,81.8,95.0,-0.07,77388.0,3
+2024-07-01,2024,7,Asia Pacific,Innovation,87.4,66.8,95.0,0.37,44815.0,10
+2024-07-01,2024,7,Latin America,Carbon Footprint,79.6,60.2,89.8,-0.06,70881.0,7
+2024-07-01,2024,7,Latin America,Water Stewardship,87.9,66.9,89.0,0.14,79621.0,7
+2024-07-01,2024,7,Latin America,Waste Management,89.4,69.9,95.0,0.27,60972.0,7
+2024-07-01,2024,7,Latin America,Supply Chain,77.9,61.9,88.6,0.29,35118.0,3
+2024-07-01,2024,7,Latin America,Employee Wellbeing,89.8,79.5,95.0,0.1,68574.0,6
+2024-07-01,2024,7,Latin America,Community Impact,82.5,67.1,89.9,0.22,78605.0,9
+2024-07-01,2024,7,Latin America,Governance,92.6,77.4,95.0,0.25,63316.0,7
+2024-07-01,2024,7,Latin America,Innovation,83.8,67.2,88.2,0.29,28436.0,11
+2024-07-01,2024,7,Middle East & Africa,Carbon Footprint,72.1,64.6,85.7,0.21,36251.0,8
+2024-07-01,2024,7,Middle East & Africa,Water Stewardship,76.3,68.1,95.0,0.24,65715.0,7
+2024-07-01,2024,7,Middle East & Africa,Waste Management,90.1,74.1,92.8,0.3,31866.0,9
+2024-07-01,2024,7,Middle East & Africa,Supply Chain,72.6,57.9,80.9,0.09,53237.0,11
+2024-07-01,2024,7,Middle East & Africa,Employee Wellbeing,86.2,78.0,95.0,0.31,37255.0,7
+2024-07-01,2024,7,Middle East & Africa,Community Impact,76.0,62.7,89.7,0.31,53677.0,5
+2024-07-01,2024,7,Middle East & Africa,Governance,97.6,76.9,95.0,0.2,81680.0,3
+2024-07-01,2024,7,Middle East & Africa,Innovation,84.3,68.1,92.2,0.26,69383.0,7
+2024-08-01,2024,8,North America,Carbon Footprint,75.5,58.4,81.6,0.19,31896.0,5
+2024-08-01,2024,8,North America,Water Stewardship,84.8,72.4,94.4,0.26,45917.0,4
+2024-08-01,2024,8,North America,Waste Management,89.0,72.2,95.0,0.26,70850.0,7
+2024-08-01,2024,8,North America,Supply Chain,72.1,58.4,77.7,0.27,71894.0,6
+2024-08-01,2024,8,North America,Employee Wellbeing,92.2,76.3,95.0,0.28,83867.0,6
+2024-08-01,2024,8,North America,Community Impact,81.6,65.5,85.5,0.25,64871.0,10
+2024-08-01,2024,8,North America,Governance,96.7,81.5,95.0,0.16,57863.0,8
+2024-08-01,2024,8,North America,Innovation,81.0,68.4,87.2,0.14,28250.0,3
+2024-08-01,2024,8,Europe,Carbon Footprint,78.2,64.6,87.9,0.31,76893.0,6
+2024-08-01,2024,8,Europe,Water Stewardship,91.8,74.9,95.0,0.35,39928.0,9
+2024-08-01,2024,8,Europe,Waste Management,92.4,76.5,95.0,0.12,33380.0,8
+2024-08-01,2024,8,Europe,Supply Chain,75.8,60.8,85.2,0.12,39471.0,6
+2024-08-01,2024,8,Europe,Employee Wellbeing,95.7,73.1,95.0,0.21,49640.0,6
+2024-08-01,2024,8,Europe,Community Impact,84.0,64.6,87.5,0.23,60135.0,5
+2024-08-01,2024,8,Europe,Governance,97.9,78.8,95.0,0.17,62450.0,11
+2024-08-01,2024,8,Europe,Innovation,86.9,66.3,89.8,0.09,27880.0,9
+2024-08-01,2024,8,Asia Pacific,Carbon Footprint,75.2,63.0,83.6,0.28,59758.0,5
+2024-08-01,2024,8,Asia Pacific,Water Stewardship,83.5,68.9,95.0,0.15,38015.0,6
+2024-08-01,2024,8,Asia Pacific,Waste Management,83.2,70.1,92.6,0.19,75217.0,7
+2024-08-01,2024,8,Asia Pacific,Supply Chain,74.9,61.1,82.6,0.16,26507.0,3
+2024-08-01,2024,8,Asia Pacific,Employee Wellbeing,88.1,75.9,95.0,0.19,40742.0,5
+2024-08-01,2024,8,Asia Pacific,Community Impact,80.0,62.2,84.9,0.33,72294.0,6
+2024-08-01,2024,8,Asia Pacific,Governance,86.5,80.1,95.0,0.11,83623.0,9
+2024-08-01,2024,8,Asia Pacific,Innovation,84.9,66.2,91.5,0.13,58350.0,9
+2024-08-01,2024,8,Latin America,Carbon Footprint,87.6,66.4,89.5,0.1,75641.0,10
+2024-08-01,2024,8,Latin America,Water Stewardship,85.5,69.4,93.1,0.21,35276.0,10
+2024-08-01,2024,8,Latin America,Waste Management,83.6,71.7,94.7,0.1,61761.0,11
+2024-08-01,2024,8,Latin America,Supply Chain,78.4,61.0,77.9,0.12,60570.0,9
+2024-08-01,2024,8,Latin America,Employee Wellbeing,85.7,77.9,95.0,-0.01,25849.0,10
+2024-08-01,2024,8,Latin America,Community Impact,86.8,65.2,88.7,0.07,80568.0,4
+2024-08-01,2024,8,Latin America,Governance,90.6,76.8,95.0,0.04,48626.0,9
+2024-08-01,2024,8,Latin America,Innovation,77.3,66.9,87.9,0.21,80117.0,11
+2024-08-01,2024,8,Middle East & Africa,Carbon Footprint,73.7,63.4,84.7,0.29,67037.0,11
+2024-08-01,2024,8,Middle East & Africa,Water Stewardship,87.4,70.5,93.5,0.19,38599.0,5
+2024-08-01,2024,8,Middle East & Africa,Waste Management,85.8,74.0,95.0,0.26,63818.0,4
+2024-08-01,2024,8,Middle East & Africa,Supply Chain,71.6,60.4,84.7,0.08,79469.0,9
+2024-08-01,2024,8,Middle East & Africa,Employee Wellbeing,94.2,76.0,95.0,0.22,36210.0,4
+2024-08-01,2024,8,Middle East & Africa,Community Impact,75.9,64.7,93.2,0.19,56828.0,11
+2024-08-01,2024,8,Middle East & Africa,Governance,92.0,80.0,95.0,0.19,30752.0,5
+2024-08-01,2024,8,Middle East & Africa,Innovation,76.2,69.1,88.7,0.35,72764.0,7
+2024-09-01,2024,9,North America,Carbon Footprint,77.6,62.5,90.1,0.14,62493.0,9
+2024-09-01,2024,9,North America,Water Stewardship,90.3,68.0,95.0,0.13,57045.0,6
+2024-09-01,2024,9,North America,Waste Management,86.4,73.9,95.0,0.2,56344.0,10
+2024-09-01,2024,9,North America,Supply Chain,72.5,59.8,83.5,-0.08,50448.0,11
+2024-09-01,2024,9,North America,Employee Wellbeing,93.4,79.7,95.0,0.16,33983.0,10
+2024-09-01,2024,9,North America,Community Impact,81.0,68.5,89.4,0.22,34621.0,6
+2024-09-01,2024,9,North America,Governance,94.5,80.1,95.0,0.13,33856.0,3
+2024-09-01,2024,9,North America,Innovation,86.0,66.5,82.6,0.36,44143.0,4
+2024-09-01,2024,9,Europe,Carbon Footprint,87.6,62.5,81.1,0.22,84564.0,8
+2024-09-01,2024,9,Europe,Water Stewardship,92.6,69.1,92.6,0.08,75375.0,11
+2024-09-01,2024,9,Europe,Waste Management,87.4,71.4,95.0,0.21,64937.0,8
+2024-09-01,2024,9,Europe,Supply Chain,82.9,56.8,82.1,0.29,39523.0,7
+2024-09-01,2024,9,Europe,Employee Wellbeing,94.2,72.5,95.0,0.13,74593.0,6
+2024-09-01,2024,9,Europe,Community Impact,79.1,63.6,84.6,0.31,80614.0,4
+2024-09-01,2024,9,Europe,Governance,98.0,80.7,95.0,0.08,33649.0,8
+2024-09-01,2024,9,Europe,Innovation,86.6,66.3,88.2,0.2,66365.0,8
+2024-09-01,2024,9,Asia Pacific,Carbon Footprint,77.6,68.6,87.6,0.38,80336.0,11
+2024-09-01,2024,9,Asia Pacific,Water Stewardship,83.1,70.5,92.5,0.23,84636.0,5
+2024-09-01,2024,9,Asia Pacific,Waste Management,85.1,69.2,95.0,0.05,70753.0,10
+2024-09-01,2024,9,Asia Pacific,Supply Chain,77.1,58.3,80.0,0.31,43253.0,5
+2024-09-01,2024,9,Asia Pacific,Employee Wellbeing,89.2,76.9,95.0,0.25,27748.0,4
+2024-09-01,2024,9,Asia Pacific,Community Impact,78.6,64.8,88.1,0.19,36472.0,7
+2024-09-01,2024,9,Asia Pacific,Governance,94.4,82.1,95.0,0.26,43345.0,6
+2024-09-01,2024,9,Asia Pacific,Innovation,81.7,67.1,90.5,0.22,26293.0,10
+2024-09-01,2024,9,Latin America,Carbon Footprint,80.4,65.3,86.7,0.01,70757.0,10
+2024-09-01,2024,9,Latin America,Water Stewardship,80.2,67.7,95.0,0.31,55792.0,6
+2024-09-01,2024,9,Latin America,Waste Management,86.5,72.1,95.0,0.12,37617.0,9
+2024-09-01,2024,9,Latin America,Supply Chain,78.4,61.9,80.4,0.12,71943.0,7
+2024-09-01,2024,9,Latin America,Employee Wellbeing,90.0,76.2,95.0,0.27,56711.0,11
+2024-09-01,2024,9,Latin America,Community Impact,79.2,65.7,78.4,0.39,75657.0,4
+2024-09-01,2024,9,Latin America,Governance,98.0,78.5,95.0,0.27,76144.0,9
+2024-09-01,2024,9,Latin America,Innovation,79.0,63.7,86.5,0.31,44413.0,6
+2024-09-01,2024,9,Middle East & Africa,Carbon Footprint,77.1,65.1,87.1,0.26,63782.0,10
+2024-09-01,2024,9,Middle East & Africa,Water Stewardship,82.8,68.9,95.0,0.23,68610.0,6
+2024-09-01,2024,9,Middle East & Africa,Waste Management,86.4,73.3,93.8,0.31,25130.0,4
+2024-09-01,2024,9,Middle East & Africa,Supply Chain,67.1,63.4,77.2,0.06,29046.0,4
+2024-09-01,2024,9,Middle East & Africa,Employee Wellbeing,91.4,75.9,95.0,0.15,64417.0,4
+2024-09-01,2024,9,Middle East & Africa,Community Impact,78.2,66.8,88.2,0.16,44724.0,8
+2024-09-01,2024,9,Middle East & Africa,Governance,83.1,76.8,95.0,0.24,54978.0,6
+2024-09-01,2024,9,Middle East & Africa,Innovation,79.0,67.3,84.3,0.46,83415.0,9
+2024-10-01,2024,10,North America,Carbon Footprint,78.7,61.6,87.4,0.35,46402.0,6
+2024-10-01,2024,10,North America,Water Stewardship,84.1,69.9,95.0,0.35,41121.0,8
+2024-10-01,2024,10,North America,Waste Management,82.3,70.4,95.0,0.26,62543.0,10
+2024-10-01,2024,10,North America,Supply Chain,72.1,59.6,78.6,0.26,71649.0,6
+2024-10-01,2024,10,North America,Employee Wellbeing,94.0,80.9,95.0,0.24,29098.0,5
+2024-10-01,2024,10,North America,Community Impact,78.6,67.0,84.0,0.21,58161.0,5
+2024-10-01,2024,10,North America,Governance,92.8,81.0,95.0,0.17,60279.0,11
+2024-10-01,2024,10,North America,Innovation,87.8,66.0,88.3,0.32,34224.0,4
+2024-10-01,2024,10,Europe,Carbon Footprint,85.1,63.7,86.1,0.13,64175.0,11
+2024-10-01,2024,10,Europe,Water Stewardship,95.0,69.7,91.3,0.17,71564.0,8
+2024-10-01,2024,10,Europe,Waste Management,90.9,70.3,95.0,0.21,71769.0,3
+2024-10-01,2024,10,Europe,Supply Chain,74.6,59.9,85.3,0.32,68380.0,3
+2024-10-01,2024,10,Europe,Employee Wellbeing,98.0,77.1,95.0,0.24,37366.0,5
+2024-10-01,2024,10,Europe,Community Impact,88.8,59.7,86.0,0.06,66223.0,8
+2024-10-01,2024,10,Europe,Governance,96.7,85.5,95.0,0.22,48934.0,9
+2024-10-01,2024,10,Europe,Innovation,85.5,67.9,87.9,0.07,50106.0,3
+2024-10-01,2024,10,Asia Pacific,Carbon Footprint,77.5,63.3,82.1,0.25,81616.0,9
+2024-10-01,2024,10,Asia Pacific,Water Stewardship,86.7,68.7,95.0,0.29,44287.0,4
+2024-10-01,2024,10,Asia Pacific,Waste Management,82.3,71.6,87.7,0.12,25152.0,10
+2024-10-01,2024,10,Asia Pacific,Supply Chain,69.4,63.8,83.7,0.12,74021.0,4
+2024-10-01,2024,10,Asia Pacific,Employee Wellbeing,87.1,75.8,95.0,0.25,46435.0,5
+2024-10-01,2024,10,Asia Pacific,Community Impact,72.9,62.8,85.5,0.29,73043.0,3
+2024-10-01,2024,10,Asia Pacific,Governance,95.7,80.5,95.0,0.13,55697.0,5
+2024-10-01,2024,10,Asia Pacific,Innovation,79.8,65.7,86.8,0.07,68056.0,11
+2024-10-01,2024,10,Latin America,Carbon Footprint,84.4,62.4,86.1,0.2,74511.0,5
+2024-10-01,2024,10,Latin America,Water Stewardship,90.5,67.8,91.6,0.33,64931.0,11
+2024-10-01,2024,10,Latin America,Waste Management,89.0,73.3,95.0,0.22,74043.0,7
+2024-10-01,2024,10,Latin America,Supply Chain,74.5,60.0,87.7,0.23,81980.0,7
+2024-10-01,2024,10,Latin America,Employee Wellbeing,93.5,75.5,95.0,0.12,56664.0,9
+2024-10-01,2024,10,Latin America,Community Impact,76.8,64.2,90.3,0.09,53690.0,7
+2024-10-01,2024,10,Latin America,Governance,98.0,79.0,95.0,0.25,69546.0,6
+2024-10-01,2024,10,Latin America,Innovation,77.0,68.1,89.2,0.23,80716.0,3
+2024-10-01,2024,10,Middle East & Africa,Carbon Footprint,79.7,60.5,87.7,0.31,37967.0,10
+2024-10-01,2024,10,Middle East & Africa,Water Stewardship,77.9,71.0,95.0,0.27,65832.0,9
+2024-10-01,2024,10,Middle East & Africa,Waste Management,84.0,72.2,95.0,0.04,71120.0,8
+2024-10-01,2024,10,Middle East & Africa,Supply Chain,73.4,61.6,81.3,0.2,79013.0,5
+2024-10-01,2024,10,Middle East & Africa,Employee Wellbeing,90.2,73.6,95.0,0.39,46109.0,7
+2024-10-01,2024,10,Middle East & Africa,Community Impact,83.4,62.7,90.7,0.33,31781.0,7
+2024-10-01,2024,10,Middle East & Africa,Governance,90.7,81.3,95.0,0.14,78216.0,10
+2024-10-01,2024,10,Middle East & Africa,Innovation,82.6,65.7,94.3,0.1,54602.0,7
+2024-11-01,2024,11,North America,Carbon Footprint,80.0,65.7,85.8,0.17,81004.0,4
+2024-11-01,2024,11,North America,Water Stewardship,84.7,73.5,94.1,0.15,79269.0,4
+2024-11-01,2024,11,North America,Waste Management,95.0,72.0,88.8,0.06,42980.0,8
+2024-11-01,2024,11,North America,Supply Chain,76.8,58.4,86.5,0.22,80261.0,11
+2024-11-01,2024,11,North America,Employee Wellbeing,85.3,78.8,95.0,0.07,67718.0,4
+2024-11-01,2024,11,North America,Community Impact,82.5,69.7,90.7,0.44,28475.0,11
+2024-11-01,2024,11,North America,Governance,94.9,80.8,95.0,0.15,28423.0,8
+2024-11-01,2024,11,North America,Innovation,71.5,65.7,93.2,0.21,29243.0,7
+2024-11-01,2024,11,Europe,Carbon Footprint,85.1,67.3,91.2,0.24,65313.0,6
+2024-11-01,2024,11,Europe,Water Stewardship,94.0,67.0,87.7,0.06,75205.0,5
+2024-11-01,2024,11,Europe,Waste Management,95.3,72.7,94.6,0.44,27118.0,9
+2024-11-01,2024,11,Europe,Supply Chain,77.8,64.4,85.2,0.1,35638.0,10
+2024-11-01,2024,11,Europe,Employee Wellbeing,92.2,73.6,95.0,0.05,65827.0,5
+2024-11-01,2024,11,Europe,Community Impact,88.4,68.0,83.6,0.1,76680.0,3
+2024-11-01,2024,11,Europe,Governance,97.3,83.3,95.0,0.38,30032.0,11
+2024-11-01,2024,11,Europe,Innovation,89.3,66.8,91.7,0.03,56286.0,5
+2024-11-01,2024,11,Asia Pacific,Carbon Footprint,75.9,67.9,82.9,0.24,80593.0,3
+2024-11-01,2024,11,Asia Pacific,Water Stewardship,84.6,70.7,95.0,0.14,68042.0,10
+2024-11-01,2024,11,Asia Pacific,Waste Management,88.5,71.0,91.4,0.14,45200.0,4
+2024-11-01,2024,11,Asia Pacific,Supply Chain,70.5,58.2,83.0,0.08,27125.0,6
+2024-11-01,2024,11,Asia Pacific,Employee Wellbeing,88.3,77.8,95.0,0.12,72477.0,5
+2024-11-01,2024,11,Asia Pacific,Community Impact,81.9,64.0,87.5,0.03,28790.0,4
+2024-11-01,2024,11,Asia Pacific,Governance,91.1,77.1,95.0,0.31,47829.0,5
+2024-11-01,2024,11,Asia Pacific,Innovation,75.2,63.7,92.6,0.23,50018.0,8
+2024-11-01,2024,11,Latin America,Carbon Footprint,72.7,65.9,85.9,0.15,28447.0,9
+2024-11-01,2024,11,Latin America,Water Stewardship,91.7,70.3,95.0,0.14,43552.0,4
+2024-11-01,2024,11,Latin America,Waste Management,90.5,72.1,95.0,-0.06,52077.0,7
+2024-11-01,2024,11,Latin America,Supply Chain,74.3,57.2,88.1,0.2,33390.0,8
+2024-11-01,2024,11,Latin America,Employee Wellbeing,88.3,80.1,95.0,0.24,52906.0,6
+2024-11-01,2024,11,Latin America,Community Impact,82.1,64.5,81.6,0.38,78590.0,11
+2024-11-01,2024,11,Latin America,Governance,92.5,77.3,95.0,0.32,42282.0,11
+2024-11-01,2024,11,Latin America,Innovation,84.9,64.4,85.6,-0.02,31359.0,5
+2024-11-01,2024,11,Middle East & Africa,Carbon Footprint,79.9,62.6,89.9,0.27,66956.0,4
+2024-11-01,2024,11,Middle East & Africa,Water Stewardship,89.1,68.1,92.4,0.18,77595.0,5
+2024-11-01,2024,11,Middle East & Africa,Waste Management,89.3,72.8,95.0,0.14,36292.0,8
+2024-11-01,2024,11,Middle East & Africa,Supply Chain,83.7,62.7,85.9,0.24,41309.0,7
+2024-11-01,2024,11,Middle East & Africa,Employee Wellbeing,85.8,74.7,95.0,0.17,83350.0,9
+2024-11-01,2024,11,Middle East & Africa,Community Impact,82.0,63.1,91.1,0.12,76296.0,6
+2024-11-01,2024,11,Middle East & Africa,Governance,95.8,77.5,95.0,0.21,52080.0,6
+2024-11-01,2024,11,Middle East & Africa,Innovation,79.2,64.7,94.0,0.16,66529.0,11
+2024-12-01,2024,12,North America,Carbon Footprint,81.8,67.3,89.0,0.37,59861.0,11
+2024-12-01,2024,12,North America,Water Stewardship,86.3,64.7,91.6,0.19,53338.0,11
+2024-12-01,2024,12,North America,Waste Management,88.3,69.4,90.3,0.08,77225.0,11
+2024-12-01,2024,12,North America,Supply Chain,81.3,57.5,80.6,0.21,27470.0,9
+2024-12-01,2024,12,North America,Employee Wellbeing,85.6,75.3,95.0,0.16,49900.0,8
+2024-12-01,2024,12,North America,Community Impact,78.6,64.1,88.0,0.08,74011.0,5
+2024-12-01,2024,12,North America,Governance,93.9,77.9,95.0,0.2,73403.0,9
+2024-12-01,2024,12,North America,Innovation,81.7,65.4,90.6,0.13,29622.0,3
+2024-12-01,2024,12,Europe,Carbon Footprint,85.5,63.7,90.1,0.09,70587.0,10
+2024-12-01,2024,12,Europe,Water Stewardship,89.0,71.5,94.3,0.27,57265.0,11
+2024-12-01,2024,12,Europe,Waste Management,89.6,70.8,94.4,0.28,72847.0,9
+2024-12-01,2024,12,Europe,Supply Chain,84.4,59.6,88.9,0.19,70357.0,4
+2024-12-01,2024,12,Europe,Employee Wellbeing,98.0,75.5,95.0,0.16,80085.0,8
+2024-12-01,2024,12,Europe,Community Impact,83.9,66.1,83.8,0.29,31667.0,11
+2024-12-01,2024,12,Europe,Governance,98.0,79.1,95.0,0.25,83670.0,3
+2024-12-01,2024,12,Europe,Innovation,86.5,65.2,88.6,0.21,34503.0,9
+2024-12-01,2024,12,Asia Pacific,Carbon Footprint,73.4,64.5,86.8,0.21,78234.0,11
+2024-12-01,2024,12,Asia Pacific,Water Stewardship,71.5,69.4,95.0,0.14,36795.0,8
+2024-12-01,2024,12,Asia Pacific,Waste Management,77.7,72.8,94.8,0.17,46538.0,10
+2024-12-01,2024,12,Asia Pacific,Supply Chain,69.5,58.5,80.1,0.25,78328.0,3
+2024-12-01,2024,12,Asia Pacific,Employee Wellbeing,87.7,79.3,91.1,0.29,84246.0,3
+2024-12-01,2024,12,Asia Pacific,Community Impact,78.4,64.8,84.1,0.03,62878.0,11
+2024-12-01,2024,12,Asia Pacific,Governance,92.9,79.8,95.0,0.14,41550.0,3
+2024-12-01,2024,12,Asia Pacific,Innovation,78.1,69.7,86.2,0.0,61695.0,5
+2024-12-01,2024,12,Latin America,Carbon Footprint,79.6,60.8,87.3,0.17,74371.0,9
+2024-12-01,2024,12,Latin America,Water Stewardship,96.1,67.6,87.4,0.26,42615.0,8
+2024-12-01,2024,12,Latin America,Waste Management,82.9,72.7,95.0,0.11,42859.0,7
+2024-12-01,2024,12,Latin America,Supply Chain,75.2,59.8,87.4,0.13,37831.0,9
+2024-12-01,2024,12,Latin America,Employee Wellbeing,93.4,81.2,95.0,0.4,41666.0,11
+2024-12-01,2024,12,Latin America,Community Impact,82.1,65.9,89.2,0.13,40187.0,4
+2024-12-01,2024,12,Latin America,Governance,98.0,82.4,95.0,0.24,42410.0,4
+2024-12-01,2024,12,Latin America,Innovation,82.4,70.0,92.2,0.07,37568.0,7
+2024-12-01,2024,12,Middle East & Africa,Carbon Footprint,80.4,62.6,85.2,0.01,70293.0,8
+2024-12-01,2024,12,Middle East & Africa,Water Stewardship,81.2,69.7,91.6,0.18,39973.0,5
+2024-12-01,2024,12,Middle East & Africa,Waste Management,91.5,66.7,95.0,0.23,52888.0,9
+2024-12-01,2024,12,Middle East & Africa,Supply Chain,72.5,58.4,84.1,0.13,79459.0,11
+2024-12-01,2024,12,Middle East & Africa,Employee Wellbeing,86.5,75.5,95.0,0.1,29935.0,4
+2024-12-01,2024,12,Middle East & Africa,Community Impact,79.3,64.6,89.6,0.21,49105.0,6
+2024-12-01,2024,12,Middle East & Africa,Governance,89.8,81.5,95.0,0.3,69836.0,9
+2024-12-01,2024,12,Middle East & Africa,Innovation,82.6,70.6,90.9,0.4,37365.0,4
